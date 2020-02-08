@@ -5,7 +5,22 @@ import os
 global PATH
 PATH = "magnus/sql_data/"
 
-class databaseOperations():
+class templates():
+
+    def __init__(self):
+        super(templates, self).__init__()
+
+    def database_template(file_object, database_name):
+
+        file_object.write("class " + str(database_name) + "():\n\n")
+        file_object.write("\tdef __init__(self):\n")
+        file_object.write("\t\tsuper(" + str(database_name) + ", self).__init__()\n\n")
+        file_object.write("\tdatasets = [\n")
+        file_object.write("\t\t{},\n")
+        file_object.write("\t\t{},\n")
+        file_object.write("\t]\n")
+
+class databaseOperations(templates):
 
     def __init__(self):
         super(databaseOperations, self).__init__()
@@ -14,9 +29,9 @@ class databaseOperations():
     @click.option('--database_name', default='Database name')
     def create_database(database_name):
 
-        create_database = open(PATH + str(database_name) + '.py', "w+")
-
-        create_database.close()
+        database = open(PATH + str(database_name) + '.py', "w+")
+        templates.database_template(database, database_name)
+        database.close()
 
     @click.command()
     @click.option('--database_name', default='Database name')
@@ -25,7 +40,7 @@ class databaseOperations():
         if (os.path.exists(PATH + str(database_name) + '.py')):
             os.remove(PATH + str(database_name) + '.py')
 
-class magnus_command_line_interface_system(object):
+class magnus_command_line_interface_system():
 
     def __init__(self):
         super(magnus_command_line_interface_system, self).__init__()
