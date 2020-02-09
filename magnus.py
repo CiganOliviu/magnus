@@ -12,10 +12,13 @@ class templates():
 
     def database_template(file_object, database_name):
 
+        file_object.write("import sys\n\n")
+        file_object.write("sys.path.insert(0, 'db_operations/')\n\n")
+        file_object.write("from db_operations.db_operations import db_operations\n\n")
         file_object.write("class " + str(database_name) + "():\n\n")
         file_object.write("\tdef __init__(self):\n")
         file_object.write("\t\tsuper(" + str(database_name) + ", self).__init__()\n\n")
-        file_object.write("\tdatasets = [\n")
+        file_object.write("\tdataset = [\n")
         file_object.write("\t\t{},\n")
         file_object.write("\t\t{},\n")
         file_object.write("\t]\n")
