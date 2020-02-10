@@ -13,8 +13,8 @@ class templates():
     def database_template(file_object, database_name):
 
         file_object.write("import sys\n\n")
-        file_object.write("sys.path.insert(0, 'db_operations/')\n\n")
-        file_object.write("from db_operations.db_operations import db_operations\n\n")
+        file_object.write("sys.path.append('magnus/sql_data/')\n\n")
+        file_object.write("from db_operations import db_operations\n\n")
         file_object.write("class " + str(database_name) + "():\n\n")
         file_object.write("\tdef __init__(self):\n")
         file_object.write("\t\tsuper(" + str(database_name) + ", self).__init__()\n\n")
@@ -32,7 +32,10 @@ class databaseOperations(templates):
     @click.option('--database_name', default='Database name')
     def create_database(database_name):
 
-        database = open(PATH + str(database_name) + '.py', "w+")
+        if not(os.path.exists(PATH + str(database_name) + "\\")):
+            os.mkdir(PATH + str(database_name) + "\\")
+
+        database = open(PATH + str(database_name) + "\\" + str(database_name) + '.py', "w+")
         templates.database_template(database, database_name)
         database.close()
 
@@ -40,8 +43,8 @@ class databaseOperations(templates):
     @click.option('--database_name', default='Database name')
     def delete_database(database_name):
 
-        if (os.path.exists(PATH + str(database_name) + '.py')):
-            os.remove(PATH + str(database_name) + '.py')
+        if os.path.exists(PATH + str(database_name) + "\\" + str(database_name) + '.py'):
+            os.remove(PATH + str(database_name) + "\\" + str(database_name) + '.py')
 
 class magnus_command_line_interface_system():
 
