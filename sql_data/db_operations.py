@@ -1,4 +1,19 @@
+import datetime
 import os
+
+# should be global based on moment circumstances
+global PATH
+PATH = "magnus/sql_data/"
+
+class templates():
+
+    def __init__(self):
+        super(templates, self).__init__()
+
+    def datetime_template(datetime_list_template):
+
+        created_date = datetime.date.today()
+        datetime_list_template.append("Database updated at " + str(created_date))
 
 class db_operations():
 
@@ -25,3 +40,14 @@ class db_operations():
         for value in db_object.dataset:
             if value[selection_attribute] == old_data:
                 del(db_object.dataset[to_remove_data - 1])
+
+    def save_activity(self, db_name):
+
+        db_template = templates()
+
+        datetime_list_template = []
+        templates.datetime_template(datetime_list_template)
+
+        filelog = open(PATH + db_name + "/" + db_name + "_logfile.txt", "a")
+        filelog.write(str(datetime_list_template) + '\n')
+        filelog.close()

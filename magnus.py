@@ -1,4 +1,5 @@
 import click
+import datetime
 import os
 
 # should be global based on moment circumstances
@@ -23,6 +24,11 @@ class templates():
         file_object.write("\t\t{},\n")
         file_object.write("\t]\n")
 
+    def datetime_template(datetime_list_template):
+
+        created_date = datetime.date.today()
+        datetime_list_template.append("Database created at " + str(created_date))
+
 class databaseOperations(templates):
 
     def __init__(self):
@@ -38,6 +44,13 @@ class databaseOperations(templates):
         database = open(PATH + str(database_name) + "\\" + str(database_name) + '.py', "w+")
         templates.database_template(database, database_name)
         database.close()
+
+        datetime_list_template = []
+        templates.datetime_template(datetime_list_template)
+
+        datetime_log_file = open(PATH + str(database_name) + "\\" + str(database_name) + '_logfile.txt', "w+")
+        datetime_log_file.write(str(datetime_list_template) + '\n')
+        datetime_log_file.close()
 
     @click.command()
     @click.option('--database_name', default='Database name')
