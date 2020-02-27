@@ -42,9 +42,22 @@ class db_operations():
         for value in db_object.dataset:
             print(value)
 
+    def select_specific_data(self, db_object, selected_attribute, value_of_selected_attribute):
+
+        for value in db_object.dataset:
+            if value[selected_attribute] == value_of_selected_attribute:
+                print(value)
+
     def insert_in_table(self, db_object, value):
 
         db_object.dataset.append(value)
+
+    def insert_data_in_file(self, file_name, db_object):
+
+        output_file = open(file_name, "w+")
+
+        for value in db_object.dataset:
+            output_file.write(str(value) + "\n")
 
     def update_in_table(self, db_object, selection_attribute, old_data, insertion_attribute, new_data):
 

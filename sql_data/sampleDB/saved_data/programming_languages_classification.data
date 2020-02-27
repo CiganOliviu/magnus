@@ -1,0 +1,9 @@
+{'id': 1, 'name': 'magnus', 'programming_language': 'Python3', 'license': 'MIT', 'status': 'stable'}
+{'id': 2, 'name': 'misha', 'programming_language': 'Python3', 'license': 'MIT', 'status': 'stable'}
+{'id': 3, 'name': 'esential', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
+{'id': 4, 'name': 'easyPass', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
+{'id': 5, 'name': 'easyPass-WS', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
+{'id': 6, 'name': 'clean-systems', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
+{'id': 7, 'name': 'cpp-algo-data-structures', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
+{'id': 8, 'name': 'c-algo-data-structures', 'programming_language': 'C', 'license': 'MIT', 'status': 'stable'}
+{'id': 9, 'name': 'cosmo', 'programming_language': 'Swift', 'license': 'MIT', 'status': 'stable'}

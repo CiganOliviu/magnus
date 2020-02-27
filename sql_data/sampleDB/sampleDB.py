@@ -4,6 +4,10 @@ sys.path.append('magnus/sql_data/')
 
 from db_operations import db_operations
 
+# should be global based on moment circumstances
+global PATH
+PATH = "magnus/sql_data/"
+
 class sampleDB():
 
 	def __init__(self):
@@ -13,18 +17,34 @@ class sampleDB():
 	name = "name"
 	programming_language = "programming_language"
 	license = "license"
-	
+	status = "status"
+
 	dataset = [
-		{id: 1, name: "magnus", programming_language: "Python3", license: "MIT"},
-		{id: 2, name: "misha", programming_language: "Python3", license: "MIT"},
-		{id: 3, name: "esential", programming_language: "C++17", license: "MIT"},
-		{id: 4, name: "easyPass", programming_language: "C++17", license: "MIT"},
-		{id: 5, name: "easyPass-WS", programming_language: "C++17", license: "MIT"},
-		{id: 6, name: "clean-systems", programming_language: "C++17", license: "MIT"},
-		{id: 7, name: "algo-data-structures", programming_language: "C++17", license: "MIT"},
+		{id: 1, name: "magnus", programming_language: "Python3", license: "MIT", status: "stable"},
+		{id: 2, name: "misha", programming_language: "Python3", license: "MIT", status: "stable"},
+		{id: 3, name: "esential", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 4, name: "easyPass", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 5, name: "easyPass-WS", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 6, name: "clean-systems", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 7, name: "cpp-algo-data-structures", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 8, name: "c-algo-data-structures", programming_language: "C", license: "MIT", status: "stable"},
+		{id: 9, name: "cosmo", programming_language: "Swift", license: "MIT", status: "stable"},
 	]
 
 db_actions = db_operations()
 
-db_actions.describe(sampleDB)
+print("C++17 projects")
+db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "C++17")
+
+print("\nC projects")
+db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "C")
+
+print("\nPython3 projects")
+db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Python3")
+
+print("\nSwift projects")
+db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Swift")
+
+db_actions.insert_data_in_file(PATH + "/sampleDB/saved_data/programming_languages_classification.data", sampleDB)
+
 db_actions.save_activity("sampleDB")
