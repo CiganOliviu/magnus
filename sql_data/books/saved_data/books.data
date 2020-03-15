@@ -1,0 +1,65 @@
+{'id': 1, 'title': 'Destined to win', 'author': 'Alex Uwejeh'}
+{'id': 2, 'title': 'Secret to help boost self confidence', 'author': 'Peter Abeland'}
+{'id': 3, 'title': 'Ideas', 'author': 'Tonoy Egar'}
+{'id': 4, 'title': 'Productivity NINJA', 'author': 'Graham Allcot'}
+{'id': 5, 'title': 'DevOps Hiring', 'author': 'Dave Swiebacl'}
+{'id': 6, 'title': 'Nikola Tesla', 'author': 'Sean Patrick'}
+{'id': 7, 'title': 'Disruptive possibilities', 'author': 'Jeffey Needham'}
+{'id': 8, 'title': 'What is SEO ?', 'author': 'Dan Kerns'}
+{'id': 9, 'title': 'UX Design', 'author': 'Soumen Das'}
+{'id': 10, 'title': 'Analyzing the Analyzers', 'author': 'Harlan Harris'}
+{'id': 11, 'title': 'The evolution of Data Production', 'author': 'Mike Loukides'}
+{'id': 12, 'title': 'Day Trading Secrets', 'author': 'Harvey Walsh'}
+{'id': 13, 'title': 'Real-Time Big Data', 'author': 'Mike Barlow'}
+{'id': 14, 'title': 'Motivation for success', 'author': 'Larry Freeman'}
+{'id': 15, 'title': '5 Steps to a stress free retirement', 'author': 'Steve Hoover'}
+{'id': 16, 'title': 'How to relax', 'author': 'Martin Meadowns'}
+{'id': 17, 'title': 'Confidence', 'author': 'Martin Meadowns'}
+{'id': 18, 'title': 'Economy Impact', 'author': 'Mike Hendrickson'}
+{'id': 19, 'title': 'What is NODE', 'author': 'Brett McLaughlin'}
+{'id': 20, 'title': 'What is Data Science', 'author': 'Mike Loukides'}
+{'id': 21, 'title': 'How to think bigger', 'author': 'Martin Meadowns'}
+{'id': 22, 'title': 'Planning your business success', 'author': 'Steve Hoover'}
+{'id': 23, 'title': 'Open Source Strategies', 'author': 'Simon Philipps'}
+{'id': 24, 'title': 'Algorimti fundamentali', 'author': 'Mirel Cosulschi'}
+{'id': 25, 'title': 'Rework', 'author': 'Jason Fried'}
+{'id': 26, 'title': 'Mein Kampf', 'author': 'Adolf Hitler'}
+{'id': 27, 'title': 'A Tree Grows in Brooklyn', 'author': 'Betty Smith'}
+{'id': 28, 'title': "The Devil's Arithmetic", 'author': 'Jane Yolen'}
+{'id': 29, 'title': "It's Kind of a Funny Story", 'author': 'Ned Vizzini'}
+{'id': 30, 'title': 'Arctic Adventure', 'author': 'Peter Freunchen'}
+{'id': 31, 'title': 'Metode de programare si POO', 'author': 'Eugen Popescu'}
+{'id': 32, 'title': 'How to win friends and influence people', 'author': 'Dale Carnegie'}
+{'id': 33, 'title': 'Python Pocket Refferenece', 'author': 'Lutz'}
+{'id': 34, 'title': 'Ajax', 'author': 'Phill Ballard'}
+{'id': 35, 'title': 'Java in easy steps', 'author': 'Mike McGrath'}
+{'id': 36, 'title': 'Java from 0 to expert', 'author': 'Stefan Tanase'}
+{'id': 37, 'title': 'Totul despre C si C++', 'author': 'Lars Kandler'}
+{'id': 38, 'title': 'Manualul tau de PHP', 'author': 'Traian Anghel'}
+{'id': 39, 'title': 'UNIX Procese', 'author': 'Iosif Ignat'}
+{'id': 40, 'title': 'Ingineria sistemelor soft', 'author': 'Dorin Bocu'}
+{'id': 41, 'title': 'JavaScript', 'author': 'Alina Caltan'}
+{'id': 42, 'title': 'Algoritmi de sortare', 'author': 'Ciprian Ghise'}
+{'id': 43, 'title': 'Algorimti de optimizare grafuri', 'author': 'Ciprian Ghise'}
+{'id': 44, 'title': '20.000 de leghe sub marii', 'author': 'Jules Verne'}
+{'id': 45, 'title': 'Life 3.0', 'author': 'Max Tegmark'}
+{'id': 46, 'title': 'The millionaire booklet', 'author': 'Grant Cardone'}
+{'id': 47, 'title': 'The 10x rule', 'author': 'Grant Cardone'}
+{'id': 48, 'title': 'Martin cel avid', 'author': 'Willian Golding'}
+{'id': 49, 'title': 'Millionaire Success Habits', 'author': 'Dean Graziosi'}
+{'id': 50, 'title': 'The free-time formula', 'author': 'Jeff Sanders'}
+{'id': 51, 'title': 'The leader habit', 'author': 'Martin Lanik'}
+{'id': 52, 'title': 'Written in history', 'author': 'Simon Sebag Montefiore'}
+{'id': 53, 'title': 'The millionaire dropout', 'author': 'Vince Stanzione'}
+{'id': 54, 'title': 'Deep work', 'author': 'Cal Newport'}
+{'id': 55, 'title': 'The surprising science of mettings', 'author': 'SG Rogelberg'}
+{'id': 56, 'title': "We're all marketers", 'author': 'Nico De Bruyn'}
+{'id': 57, 'title': 'Think like a billionaire', 'author': 'Donald Trump'}
+{'id': 58, 'title': 'How to skimm your life', 'author': 'The Skimm'}
+{'id': 59, 'title': 'Millionaire Success Habits: Productivity Chapters', 'author': 'Dean Graziosi'}
+{'id': 60, 'title': 'Chernobyl', 'author': 'Serhoo Plokhy'}
+{'id': 61, 'title': 'The Coffe bean', 'author': 'Jon Gordon, Damon West'}
+{'id': 62, 'title': 'Steal the show', 'author': 'Michael Port'}
+{'id': 63, 'title': 'Clean Code', 'author': 'Robert C. Martin'}
+{'id': 64, 'title': 'The One Thing', 'author': 'Garry Keller'}
+{'id': 65, 'title': 'Be obsessed or be average', 'author': 'Grant Cardone'}
