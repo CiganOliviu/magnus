@@ -91,4 +91,4 @@ db_actions = db_operations()
 
 db_actions.select_from_table(books)
 db_actions.insert_data_in_file(PATH + "/books/saved_data/books.data", books)
-db_actions.save_activity("books", "books")
+db_actions.save_activity("books/logfiles/", "books")
