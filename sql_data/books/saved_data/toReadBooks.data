@@ -1,28 +1,67 @@
-{'id': 1, 'title': 'Think Again', 'author': 'Walter Sinnott-Armstrong', 'want level': 10}
-{'id': 2, 'title': 'Think and Grow Rich', 'author': 'Napoleon Hill', 'want level': 8}
-{'id': 3, 'title': 'The Underdog Advantage', 'author': 'Dean Graziosi', 'want level': 7}
-{'id': 4, 'title': 'The subtle art of not giving a fuck', 'author': 'Mark Manson', 'want level': 6}
-{'id': 5, 'title': 'The power of now', 'author': 'Eckhart Tolle', 'want level': 5}
-{'id': 6, 'title': 'The millionaire real estate investor', 'author': 'Gary Keller', 'want level': 4}
-{'id': 7, 'title': 'The Handbook evolutionary psichology', 'author': 'David Buss', 'want level': 7}
-{'id': 8, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'want level': 10}
-{'id': 9, 'title': 'Rental Property Investing', 'author': 'Brandon Turner', 'want level': 4}
-{'id': 10, 'title': 'The 80/20 rule', 'author': 'Richard Koch', 'want level': 7}
-{'id': 11, 'title': 'The 4-hour workweek', 'author': 'Timothy Ferriss', 'want level': 7}
-{'id': 12, 'title': 'Start with why', 'author': 'Simon Sinek', 'want level': 9}
-{'id': 13, 'title': 'Smart Thinking', 'author': 'Matthew Allen', 'want level': 10}
-{'id': 14, 'title': 'The rules of work', 'author': 'Richard Templar', 'want level': 9}
-{'id': 15, 'title': 'Rich Dad Poor Dad', 'author': 'Robert T. Kiyosaki', 'want level': 8}
-{'id': 16, 'title': "So good they can't ignore you", 'author': 'Cal Newport', 'want level': 9}
-{'id': 17, 'title': 'Mindset', 'author': 'Dr Carol S. Dweck', 'want level': 7}
-{'id': 18, 'title': 'Dark psichology to manipulate and control people', 'author': 'Arthur Horn', 'want level': 9}
-{'id': 19, 'title': 'Introduction to machine learning with Python', 'author': 'Andreas C. Muller and Sarah Guido', 'want level': 5}
-{'id': 20, 'title': 'How to invest in real estate', 'author': 'Robert Waller', 'want level': 5}
-{'id': 21, 'title': 'Exactly what to say', 'author': 'Phil M. Jones', 'want level': 6}
-{'id': 22, 'title': 'Everything is fucked', 'author': 'Mark Manson', 'want level': 8}
-{'id': 23, 'title': 'Elon Musk', 'author': 'Ashlee Vance', 'want level': 8}
-{'id': 24, 'title': 'Ego is the enemy', 'author': 'Ryan Holiday', 'want level': 7}
-{'id': 25, 'title': 'Dark psichology', 'author': 'Richard Campbell', 'want level': 6}
-{'id': 26, 'title': 'Why We Sleep', 'author': 'Matthew Walker', 'want level': 9}
-{'id': 27, 'title': '24 Patterns for Clean Code', 'author': 'Robert Beisert', 'want level': 10}
-{'id': 28, 'title': 'Clean Arhitecture', 'author': 'Robert C. Martin', 'want level': 10}
+{'id': 1, 'title': 'Think Again', 'author': 'Walter Sinnott-Armstrong', 'want level': 10, 'status': 'owned'}
+{'id': 2, 'title': 'Think and Grow Rich', 'author': 'Napoleon Hill', 'want level': 8, 'status': 'owned'}
+{'id': 3, 'title': 'The Underdog Advantage', 'author': 'Dean Graziosi', 'want level': 7, 'status': 'owned'}
+{'id': 4, 'title': 'The subtle art of not giving a fuck', 'author': 'Mark Manson', 'want level': 6, 'status': 'owned'}
+{'id': 5, 'title': 'The power of now', 'author': 'Eckhart Tolle', 'want level': 5, 'status': 'owned'}
+{'id': 6, 'title': 'The millionaire real estate investor', 'author': 'Gary Keller', 'want level': 4, 'status': 'owned'}
+{'id': 7, 'title': 'The Handbook evolutionary psichology', 'author': 'David Buss', 'want level': 7, 'status': 'owned'}
+{'id': 8, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'want level': 10, 'status': 'owned'}
+{'id': 9, 'title': 'Rental Property Investing', 'author': 'Brandon Turner', 'want level': 4, 'status': 'owned'}
+{'id': 10, 'title': 'The 80/20 rule', 'author': 'Richard Koch', 'want level': 7, 'status': 'owned'}
+{'id': 11, 'title': 'The 4-hour workweek', 'author': 'Timothy Ferriss', 'want level': 7, 'status': 'owned'}
+{'id': 12, 'title': 'Start with why', 'author': 'Simon Sinek', 'want level': 9, 'status': 'owned'}
+{'id': 13, 'title': 'Smart Thinking', 'author': 'Matthew Allen', 'want level': 10, 'status': 'owned'}
+{'id': 14, 'title': 'The rules of work', 'author': 'Richard Templar', 'want level': 9, 'status': 'owned'}
+{'id': 15, 'title': 'Rich Dad Poor Dad', 'author': 'Robert T. Kiyosaki', 'want level': 8, 'status': 'owned'}
+{'id': 16, 'title': "So good they can't ignore you", 'author': 'Cal Newport', 'want level': 9, 'status': 'owned'}
+{'id': 17, 'title': 'Mindset', 'author': 'Dr Carol S. Dweck', 'want level': 7, 'status': 'owned'}
+{'id': 18, 'title': 'Dark psichology to manipulate and control people', 'author': 'Arthur Horn', 'want level': 9, 'status': 'owned'}
+{'id': 19, 'title': 'Introduction to machine learning with Python', 'author': 'Andreas C. Muller and Sarah Guido', 'want level': 5, 'status': 'owned'}
+{'id': 20, 'title': 'How to invest in real estate', 'author': 'Robert Waller', 'want level': 5, 'status': 'owned'}
+{'id': 21, 'title': 'Exactly what to say', 'author': 'Phil M. Jones', 'want level': 6, 'status': 'owned'}
+{'id': 22, 'title': 'Everything is fucked', 'author': 'Mark Manson', 'want level': 8, 'status': 'owned'}
+{'id': 23, 'title': 'Elon Musk', 'author': 'Ashlee Vance', 'want level': 8, 'status': 'owned'}
+{'id': 24, 'title': 'Ego is the enemy', 'author': 'Ryan Holiday', 'want level': 7, 'status': 'owned'}
+{'id': 25, 'title': 'Dark psichology', 'author': 'Richard Campbell', 'want level': 6, 'status': 'owned'}
+{'id': 26, 'title': 'Why We Sleep', 'author': 'Matthew Walker', 'want level': 9, 'status': 'owned'}
+{'id': 27, 'title': '24 Patterns for Clean Code', 'author': 'Robert Beisert', 'want level': 10, 'status': 'owned'}
+{'id': 28, 'title': 'Clean Arhitecture', 'author': 'Robert C. Martin', 'want level': 10, 'status': 'owned'}
+{'id': 29, 'title': 'Code Complete: A Practical Handbook of Software Construction: ', 'author': 'Steve McConnell', 'want level': 10, 'status': 'not-owned'}
+{'id': 30, 'title': 'Structure and Interpretation of Computer Programs, 2nd Edition (MIT Electrical Engineering and Computer Science)', 'author': 'Harold Abelso', 'want level': 10, 'status': 'not-owned'}
+{'id': 31, 'title': 'Design patterns : elements of reusable object-oriented software', 'author': 'Erich Gamma', 'want level': 10, 'status': 'not-owned'}
+{'id': 32, 'title': 'Head First Design Patterns', 'author': 'Eric Freeman', 'want level': 10, 'status': 'not-owned'}
+{'id': 33, 'title': 'Refactoring: Improving the Design of Existing Code (Object Technology Series)', 'author': 'Kent Beck', 'want level': 10, 'status': 'not-owned'}
+{'id': 34, 'title': 'Working Effectively with Legacy Code', 'author': 'Michael Feathers', 'want level': 10, 'status': 'not-owned'}
+{'id': 35, 'title': 'The Art of Computer Programming, Volumes 1-4A Boxed Set (Box Set)', 'author': 'Donald E. Knuth', 'want level': 10, 'status': 'not-owned'}
+{'id': 36, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho', 'want level': 10, 'status': 'not-owned'}
+{'id': 37, 'title': "The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job", 'author': 'John Sonmez', 'want level': 10, 'status': 'not-owned'}
+{'id': 38, 'title': 'The Pragmatic Programmer: From Journeyman to Master', 'author': 'Andrew Hunt', 'want level': 10, 'status': 'not-owned'}
+{'id': 39, 'title': 'The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)', 'author': 'Chad Fowler', 'want level': 10, 'status': 'not-owned'}
+{'id': 40, 'title': 'The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition', 'author': 'Frederick P. Brooks Jr.', 'want level': 10, 'status': 'not-owned'}
+{'id': 41, 'title': 'Domain-Driven Design: Tackling Complexity in the Heart of Software', 'author': 'Eric Evans', 'want level': 10, 'status': 'not-owned'}
+{'id': 42, 'title': 'Patterns of Enterprise Application Architecture (The Addison-Wesley Signature Series)', 'author': 'Martin Fowler', 'want level': 10, 'status': 'not-owned'}
+{'id': 43, 'title': 'Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions (Addison-Wesley Signature Series (Fowler))', 'author': 'Gregor Hohpe', 'want level': 10, 'status': 'not-owned'}
+{'id': 44, 'title': 'Refactoring to Patterns (Addison-Wesley Signature)', 'author': 'Joshua Kerievsky', 'want level': 10, 'status': 'not-owned'}
+{'id': 45, 'title': 'Agile Software Development, Principles, Patterns, and Practices', 'author': 'Robert C. Martin', 'want level': 10, 'status': 'not-owned'}
+{'id': 46, 'title': 'Agile Principles, Patterns, and Practices in C#', 'author': 'Robert C. Martin', 'want level': 10, 'status': 'not-owned'}
+{'id': 47, 'title': 'Agile Estimating and Planning', 'author': 'Robert C, Martin', 'want level': 10, 'status': 'not-owned'}
+{'id': 48, 'title': 'User Stories Applied: For Agile Software Development (Addison-Wesley Signature)', 'author': 'Mike Cohn', 'want level': 10, 'status': 'not-owned'}
+{'id': 49, 'title': 'Extreme Programming Explained: Embrace Change', 'author': 'Kent Beck', 'want level': 10, 'status': 'not-owned'}
+{'id': 50, 'title': 'Programming Pearls (ACM Press)', 'author': 'Jon Bentley', 'want level': 10, 'status': 'not-owned'}
+{'id': 51, 'title': 'Cracking the Coding Interview: 150 Programming Questions and Solutions', 'author': 'Gayle Laakmann McDowell', 'want level': 10, 'status': 'not-owned'}
+{'id': 52, 'title': 'Thinking in Java, Fourth Edition', 'author': 'Bruce Eckel', 'want level': 10, 'status': 'not-owned'}
+{'id': 53, 'title': 'Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)', 'author': 'Bruce A. Tate', 'want level': 10, 'status': 'not-owned'}
+{'id': 54, 'title': 'C# in Depth', 'author': 'Jon Skeet', 'want level': 10, 'status': 'not-owned'}
+{'id': 55, 'title': 'Testing Computer Software', 'author': 'Cem Kaner', 'want level': 10, 'status': 'not-owned'}
+{'id': 56, 'title': 'Ship it!: A Practical Guide to Successful Software Projects (Pragmatic Programmers)', 'author': 'Jared Richardson', 'want level': 10, 'status': 'not-owned'}
+{'id': 57, 'title': 'Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature)', 'author': 'Jez Humble', 'want level': 10, 'status': 'not-owned'}
+{'id': 58, 'title': "Soft Skills: The software developer's life manual", 'author': 'John Sonmez', 'want level': 10, 'status': 'not-owned'}
+{'id': 59, 'title': 'Code: The Hidden Language of Computer Hardware and Software', 'author': 'Charles Petzold', 'want level': 10, 'status': 'not-owned'}
+{'id': 60, 'title': 'Godel, Escher, Bach: An Eternal Golden Braid', 'author': 'Douglas R. Hofstadter', 'want level': 10, 'status': 'not-owned'}
+{'id': 61, 'title': 'The War of Art', 'author': 'Steven Pressfield', 'want level': 10, 'status': 'not-owned'}
+{'id': 62, 'title': 'As a Man Thinketh', 'author': 'James Allen', 'want level': 10, 'status': 'not-owned'}
+{'id': 63, 'title': 'Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Powers to Succeed', 'author': 'Brian Tracy', 'want level': 10, 'status': 'not-owned'}
+{'id': 64, 'title': 'How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life', 'author': 'Scott Adams', 'want level': 10, 'status': 'not-owned'}
+{'id': 65, 'title': 'The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph', 'author': 'Ryan Holiday', 'want level': 10, 'status': 'not-owned'}
+{'id': 66, 'title': 'Panzer Leader', 'author': 'Heinz Guaderian', 'want level': 10, 'status': 'not-owned'}
+{'id': 67, 'title': 'Operation Barbarossa 2nd Panzergruppe in Russia June 21 1941', 'author': 'Heinz Guaderian', 'want level': 10, 'status': 'not-owned'}
