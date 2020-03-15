@@ -87,13 +87,13 @@ class db_operations():
             db_template.draw_data_border(value)
             print()
 
-    def save_activity(self, db_name):
+    def save_activity(self, db_name, db_table):
 
         db_template = templates()
 
         datetime_list_template = []
         templates.datetime_template(datetime_list_template)
 
-        filelog = open(PATH + db_name + "/" + db_name + "_logfile.txt", "a")
+        filelog = open(PATH + db_name + "/" + db_table + "_logfile.txt", "a")
         filelog.write(str(datetime_list_template) + '\n')
         filelog.close()

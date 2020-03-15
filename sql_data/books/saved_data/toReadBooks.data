@@ -1,0 +1,28 @@
+{'id': 1, 'title': 'Think Again', 'author': 'Walter Sinnott-Armstrong', 'want level': 10}
+{'id': 2, 'title': 'Think and Grow Rich', 'author': 'Napoleon Hill', 'want level': 8}
+{'id': 3, 'title': 'The Underdog Advantage', 'author': 'Dean Graziosi', 'want level': 7}
+{'id': 4, 'title': 'The subtle art of not giving a fuck', 'author': 'Mark Manson', 'want level': 6}
+{'id': 5, 'title': 'The power of now', 'author': 'Eckhart Tolle', 'want level': 5}
+{'id': 6, 'title': 'The millionaire real estate investor', 'author': 'Gary Keller', 'want level': 4}
+{'id': 7, 'title': 'The Handbook evolutionary psichology', 'author': 'David Buss', 'want level': 7}
+{'id': 8, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'want level': 10}
+{'id': 9, 'title': 'Rental Property Investing', 'author': 'Brandon Turner', 'want level': 4}
+{'id': 10, 'title': 'The 80/20 rule', 'author': 'Richard Koch', 'want level': 7}
+{'id': 11, 'title': 'The 4-hour workweek', 'author': 'Timothy Ferriss', 'want level': 7}
+{'id': 12, 'title': 'Start with why', 'author': 'Simon Sinek', 'want level': 9}
+{'id': 13, 'title': 'Smart Thinking', 'author': 'Matthew Allen', 'want level': 10}
+{'id': 14, 'title': 'The rules of work', 'author': 'Richard Templar', 'want level': 9}
+{'id': 15, 'title': 'Rich Dad Poor Dad', 'author': 'Robert T. Kiyosaki', 'want level': 8}
+{'id': 16, 'title': "So good they can't ignore you", 'author': 'Cal Newport', 'want level': 9}
+{'id': 17, 'title': 'Mindset', 'author': 'Dr Carol S. Dweck', 'want level': 7}
+{'id': 18, 'title': 'Dark psichology to manipulate and control people', 'author': 'Arthur Horn', 'want level': 9}
+{'id': 19, 'title': 'Introduction to machine learning with Python', 'author': 'Andreas C. Muller and Sarah Guido', 'want level': 5}
+{'id': 20, 'title': 'How to invest in real estate', 'author': 'Robert Waller', 'want level': 5}
+{'id': 21, 'title': 'Exactly what to say', 'author': 'Phil M. Jones', 'want level': 6}
+{'id': 22, 'title': 'Everything is fucked', 'author': 'Mark Manson', 'want level': 8}
+{'id': 23, 'title': 'Elon Musk', 'author': 'Ashlee Vance', 'want level': 8}
+{'id': 24, 'title': 'Ego is the enemy', 'author': 'Ryan Holiday', 'want level': 7}
+{'id': 25, 'title': 'Dark psichology', 'author': 'Richard Campbell', 'want level': 6}
+{'id': 26, 'title': 'Why We Sleep', 'author': 'Matthew Walker', 'want level': 9}
+{'id': 27, 'title': '24 Patterns for Clean Code', 'author': 'Robert Beisert', 'want level': 10}
+{'id': 28, 'title': 'Clean Arhitecture', 'author': 'Robert C. Martin', 'want level': 10}
