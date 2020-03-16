@@ -1,16 +1,48 @@
-{'id': 1, 'name': 'magnus', 'programming_language': 'Python3', 'license': 'MIT', 'status': 'stable'}
-{'id': 2, 'name': 'misha', 'programming_language': 'Python3', 'license': 'MIT', 'status': 'stable'}
-{'id': 3, 'name': 'esential', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
-{'id': 4, 'name': 'easyPass', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
-{'id': 5, 'name': 'easyPass-WS', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
-{'id': 6, 'name': 'clean-systems', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
-{'id': 7, 'name': 'cpp-algo-data-structures', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
-{'id': 8, 'name': 'c-algo-data-structures', 'programming_language': 'C', 'license': 'MIT', 'status': 'stable'}
-{'id': 9, 'name': 'clean-TDD', 'programming_language': 'C', 'license': 'MIT', 'status': 'stable'}
-{'id': 10, 'name': 'cosmo', 'programming_language': 'Swift', 'license': 'MIT', 'status': 'stable'}
-{'id': 11, 'name': 'doppler', 'programming_language': 'JavaScript', 'license': 'MIT', 'status': 'stable'}
-{'id': 12, 'name': 'data-analysis-systems', 'programming_language': 'Jupyter Notebook', 'license': 'MIT', 'status': 'stable'}
-{'id': 13, 'name': 'rock-paper-scissors-lizard-spock', 'programming_language': 'Java', 'license': 'Apache License 2.0', 'status': 'stable'}
-{'id': 14, 'name': 'X-and-0-game', 'programming_language': 'CSharp', 'license': 'Apache License 2.0', 'status': 'stable'}
-{'id': 15, 'name': 'csharp-algo-data-structures', 'programming_language': 'CSharp', 'license': 'MIT', 'status': 'stable'}
-{'id': 16, 'name': 'smart-code-notes', 'programming_language': 'None', 'license': 'MIT', 'status': 'in progress'}
+--------------------------------------
+| 1 | magnus | Python3 | MIT | stable |
+--------------------------------------
+-------------------------------------
+| 2 | misha | Python3 | MIT | stable |
+-------------------------------------
+--------------------------------------
+| 3 | esential | C++17 | MIT | stable |
+--------------------------------------
+--------------------------------------
+| 4 | easyPass | C++17 | MIT | stable |
+--------------------------------------
+-----------------------------------------
+| 5 | easyPass-WS | C++17 | MIT | stable |
+-----------------------------------------
+-------------------------------------------
+| 6 | clean-systems | C++17 | MIT | stable |
+-------------------------------------------
+------------------------------------------------------
+| 7 | cpp-algo-data-structures | C++17 | MIT | stable |
+------------------------------------------------------
+------------------------------------------------
+| 8 | c-algo-data-structures | C | MIT | stable |
+------------------------------------------------
+-----------------------------------
+| 9 | clean-TDD | C | MIT | stable |
+-----------------------------------
+------------------------------------
+| 10 | cosmo | Swift | MIT | stable |
+------------------------------------
+-------------------------------------------
+| 11 | doppler | JavaScript | MIT | stable |
+-------------------------------------------
+---------------------------------------------------------------
+| 12 | data-analysis-systems | Jupyter Notebook | MIT | stable |
+---------------------------------------------------------------
+-----------------------------------------------------------------------------
+| 13 | rock-paper-scissors-lizard-spock | Java | Apache License 2.0 | stable |
+-----------------------------------------------------------------------------
+-----------------------------------------------------------
+| 14 | X-and-0-game | CSharp | Apache License 2.0 | stable |
+-----------------------------------------------------------
+-----------------------------------------------------------
+| 15 | csharp-algo-data-structures | CSharp | MIT | stable |
+-----------------------------------------------------------
+---------------------------------------------------
+| 16 | smart-code-notes | None | MIT | in progress |
+---------------------------------------------------

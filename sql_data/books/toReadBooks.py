@@ -86,12 +86,14 @@ class toReadBooks():
 		{id: 63, book_title: "Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Powers to Succeed", author: "Brian Tracy", want_level: 10, status: "not-owned"},
 		{id: 64, book_title: "How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life", author: "Scott Adams", want_level: 10, status: "not-owned"},
 		{id: 65, book_title: "The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph", author: "Ryan Holiday", want_level: 10, status: "not-owned"},
-		{id: 66, book_title: "Panzer Leader", author: "Heinz Guaderian", want_level: 10, status: "not-owned"},
+		{id: 66, book_title: "Panzer Leader", author: "Heinz Guaderian", want_level: 10, status: "owned"},
 		{id: 67, book_title: "Operation Barbarossa 2nd Panzergruppe in Russia June 21 1941", author: "Heinz Guaderian", want_level: 10, status: "not-owned"},
 	]
 
 db_actions = db_operations()
 
-db_actions.select_from_table(toReadBooks)
-db_actions.insert_data_in_file(PATH + "/books/saved_data/toReadBooks.data", toReadBooks)
+db_actions.describe(toReadBooks)
+
+db_actions.insert_table_in_file(PATH + "/books/saved_data/toReadBooks.data", toReadBooks)
+
 db_actions.save_activity("books/logfiles/", "toReadBooks")

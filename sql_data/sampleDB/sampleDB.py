@@ -65,6 +65,6 @@ db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "JavaSc
 print("\nSwift projects")
 db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Swift")
 
-db_actions.insert_data_in_file(PATH + "/sampleDB/saved_data/programming_languages_classification.data", sampleDB)
+db_actions.insert_table_in_file(PATH + "/sampleDB/saved_data/programming_languages_classification.data", sampleDB)
 
-db_actions.save_activity("sampleDB")
+db_actions.save_activity("sampleDB", "sampleDB")

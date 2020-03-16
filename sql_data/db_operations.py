@@ -32,6 +32,14 @@ class templates():
         for i in range(len(list(compressed_data))):
             print("-", end="")
 
+    def draw_file_data_border(self, file_object, list_arg):
+
+        compressed_data = self.__get_size(list_arg)
+
+        for i in range(len(list(compressed_data))):
+            file_object.write("-")
+
+
 class db_operations():
 
     def __init__(self):
@@ -58,6 +66,23 @@ class db_operations():
 
         for value in db_object.dataset:
             output_file.write(str(value) + "\n")
+
+    def insert_table_in_file(self, file_name, db_object):
+        output_file = open(file_name, "w+")
+
+        for value in db_object.dataset:
+            db_template = templates()
+
+            db_template.draw_file_data_border(output_file, value)
+            output_file.write('\n')
+            output_file.write("|")
+            for key in value:
+                output_file.write(" ")
+                output_file.write(str(value[key]) + " ")
+                output_file.write("|")
+            output_file.write('\n')
+            db_template.draw_file_data_border(output_file, value)
+            output_file.write('\n')
 
     def update_in_table(self, db_object, selection_attribute, old_data, insertion_attribute, new_data):
 
