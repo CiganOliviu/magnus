@@ -95,6 +95,15 @@ class toReadBooks():
 		{id: 72, book_title: "The Intelligent Investor The Definitive Book On Value Investing, Revised Edition", author: "Benjamin Graham", want_level: 8, status: "owned", done_to_read: False},
 		{id: 73, book_title: "Unshakeable Your Financial Freedom Playbook", author: "Tony Robbins", want_level: 8, status: "owned", done_to_read: False},
 		{id: 74, book_title: "Students Secrets Revealed", author: "Dean Graziosi", want_level: 8, status: "owned", done_to_read: False},
+		{id: 75, book_title: "The Four Pillars of Investing Lessons for Building a Winning Portfolio", author: "William Bernstein", want_level: 10, status: "owned", done_to_read: False},
+		{id: 76, book_title: "Speed Reading For Dummies", author: "Richard Sutz", want_level: 10, status: "owned", done_to_read: False},
+		{id: 77, book_title: "The H Factor of Personality Why Some People are Manipulative, Self-Entitled, Materialistic, and Exploitive―And Why It Matters for Everyone", author: "Kibeom Lee", want_level: 8, status: "owned", done_to_read: False},
+		{id: 78, book_title: "Built to Sell Creating a Business That Can Thrive Without You", author: "John Warrillow", want_level: 9, status: "owned", done_to_read: False},
+		{id: 79, book_title: "Rich Dads Guide to Investing What the Rich Invest in That the Poor and Middle Class Do Not", author: " Robert T. Kiyosaki", want_level: 8, status: "owned", done_to_read: False},
+		{id: 80, book_title: "Passive Income Stop Working - Start Living - Make money while you sleep", author: "Ralph Waters", want_level: 10, status: "owned", done_to_read: False},
+		{id: 81, book_title: "The Freelancers Bible Everything You Need to Know to Have the Career of Your Dreams - On Your Terms", author: "Sara Horowitz", want_level: 10, status: "owned", done_to_read: False},
+		{id: 82, book_title: "The Selfish Gene", author: "Richard Dawkins", want_level: 8, status: "owned", done_to_read: False},
+		{id: 83, book_title: "How to Analyze People - Dark Secrets to Analyze and Influence Anyone Using Body Language ", author: "James Williams", want_level: 6, status: "owned", done_to_read: False},
 	]
 
 db_actions = db_operations()
