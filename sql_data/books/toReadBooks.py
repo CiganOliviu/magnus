@@ -89,6 +89,12 @@ class toReadBooks():
 		{id: 66, book_title: "Panzer Leader", author: "Heinz Guaderian", want_level: 10, status: "owned", done_to_read: False},
 		{id: 67, book_title: "Operation Barbarossa 2nd Panzergruppe in Russia June 21 1941", author: "Heinz Guaderian", want_level: 10, status: "owned", done_to_read: False},
 		{id: 68, book_title: "Sleep Smarter", author: "Shawn Stevenson", want_level: 8, status: "not-owned", done_to_read: False},
+		{id: 69, book_title: "Find Your Why A Practical Guide for Discovering Purpose for You and Your Team", author: "Simon Sinek", want_level: 7, status: "owned", done_to_read: False},
+		{id: 70, book_title: "Man alone with himself", author: "Josh Kaufman", want_level: 8, status: "owned", done_to_read: False},
+		{id: 71, book_title: "The Personal MBA Master the Art of Business", author: "R. J. Nietzsche", want_level: 10, status: "owned", done_to_read: False},
+		{id: 72, book_title: "The Intelligent Investor The Definitive Book On Value Investing, Revised Edition", author: "Benjamin Graham", want_level: 8, status: "owned", done_to_read: False},
+		{id: 73, book_title: "Unshakeable Your Financial Freedom Playbook", author: "Tony Robbins", want_level: 8, status: "owned", done_to_read: False},
+		{id: 74, book_title: "Students Secrets Revealed", author: "Dean Graziosi", want_level: 8, status: "owned", done_to_read: False},
 	]
 
 db_actions = db_operations()
