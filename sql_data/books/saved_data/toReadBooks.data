@@ -1,5 +1,5 @@
 ------------------------------------------------------------------
-| 1 | Think Again | Walter Sinnott-Armstrong | 10 | owned | False |
+| 1 | Think Again | Walter Sinnott Armstrong | 10 | owned | False |
 ------------------------------------------------------------------
 --------------------------------------------------------------
 | 2 | Think and Grow Rich | Napoleon Hill | 8 | owned | False |
@@ -29,7 +29,7 @@
 | 10 | The 80/20 rule | Richard Koch | 7 | owned | False |
 ---------------------------------------------------------
 -----------------------------------------------------------------
-| 11 | The 4-hour workweek | Timothy Ferriss | 7 | owned | False |
+| 11 | The 4 hour workweek | Timothy Ferriss | 7 | owned | False |
 -----------------------------------------------------------------
 --------------------------------------------------------
 | 12 | Start with why | Simon Sinek | 9 | owned | False |
@@ -86,7 +86,7 @@
 | 30 | Structure and Interpretation of Computer Programs, 2nd Edition (MIT Electrical Engineering and Computer Science) | Harold Abelso | 10 | owned | False |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
-| 31 | Design patterns : elements of reusable object-oriented software | Erich Gamma | 10 | owned | False |
+| 31 | Design patterns : elements of reusable object oriented software | Erich Gamma | 10 | owned | False |
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------
 | 32 | Head First Design Patterns | Eric Freeman | 10 | owned | False |
@@ -95,10 +95,10 @@
 | 33 | Refactoring: Improving the Design of Existing Code (Object Technology Series) | Kent Beck | 10 | owned | False |
 ----------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
-| 34 | Working Effectively with Legacy Code | Michael Feathers | 10 | not-owned | False |
+| 34 | Working Effectively with Legacy Code | Michael Feathers | 10 | not owned | False |
 ----------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------
-| 35 | The Art of Computer Programming, Volumes 1-4A Boxed Set (Box Set) | Donald E. Knuth | 10 | owned | False |
+| 35 | The Art of Computer Programming, Volumes 1 4A Boxed Set (Box Set) | Donald E. Knuth | 10 | owned | False |
 ----------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------
 | 36 | Compilers: Principles, Techniques, and Tools | Alfred V. Aho | 10 | owned | False |
@@ -113,19 +113,19 @@
 | 39 | The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) | Chad Fowler | 10 | owned | False |
 -------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-| 40 | The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition | Frederick P. Brooks Jr. | 10 | owned | False |
+| 40 | The Mythical Man Month: Essays on Software Engineering, Anniversary Edition | Frederick P. Brooks Jr. | 10 | owned | False |
 ----------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
-| 41 | Domain-Driven Design: Tackling Complexity in the Heart of Software | Eric Evans | 10 | owned | False |
+| 41 | Domain Driven Design: Tackling Complexity in the Heart of Software | Eric Evans | 10 | owned | False |
 ------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------
-| 42 | Patterns of Enterprise Application Architecture (The Addison-Wesley Signature Series) | Martin Fowler | 10 | owned | False |
+| 42 | Patterns of Enterprise Application Architecture (The Addison Wesley Signature Series) | Martin Fowler | 10 | owned | False |
 ----------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| 43 | Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions (Addison-Wesley Signature Series (Fowler)) | Gregor Hohpe | 10 | owned | False |
+| 43 | Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions (Addison Wesley Signature Series (Fowler)) | Gregor Hohpe | 10 | owned | False |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------
-| 44 | Refactoring to Patterns (Addison-Wesley Signature) | Joshua Kerievsky | 10 | not-owned | False |
+| 44 | Refactoring to Patterns (Addison Wesley Signature) | Joshua Kerievsky | 10 | not owned | False |
 ------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------
 | 45 | Agile Software Development, Principles, Patterns, and Practices | Robert C. Martin | 10 | owned | False |
@@ -134,13 +134,13 @@
 | 46 | Agile Principles, Patterns, and Practices in C# | Robert C. Martin | 10 | owned | False |
 -----------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
-| 47 | Agile Estimating and Planning | Robert C, Martin | 10 | not-owned | False |
+| 47 | Agile Estimating and Planning | Robert C, Martin | 10 | not owned | False |
 ---------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------
-| 48 | User Stories Applied: For Agile Software Development (Addison-Wesley Signature) | Mike Cohn | 10 | not-owned | False |
+| 48 | User Stories Applied: For Agile Software Development (Addison Wesley Signature) | Mike Cohn | 10 | not owned | False |
 ----------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
-| 49 | Extreme Programming Explained: Embrace Change | Kent Beck | 10 | not-owned | False |
+| 49 | Extreme Programming Explained: Embrace Change | Kent Beck | 10 | not owned | False |
 ------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------
 | 50 | Programming Pearls (ACM Press) | Jon Bentley | 10 | owned | False |
@@ -158,13 +158,13 @@
 | 54 | C# in Depth | Jon Skeet | 10 | owned | False |
 ----------------------------------------------------
 ----------------------------------------------------------------------
-| 55 | Testing Computer Software | Cem Kaner | 10 | not-owned | False |
+| 55 | Testing Computer Software | Cem Kaner | 10 | not owned | False |
 ----------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------
 | 56 | Ship it!: A Practical Guide to Successful Software Projects (Pragmatic Programmers) | Jared Richardson | 10 | owned | False |
 -----------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| 57 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature) | Jez Humble | 10 | owned | False |
+| 57 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison Wesley Signature) | Jez Humble | 10 | owned | False |
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
 | 58 | Soft Skills: The software developer's life manual | John Sonmez | 10 | owned | False |
@@ -179,7 +179,7 @@
 | 61 | The War of Art | Steven Pressfield | 10 | owned | False |
 ---------------------------------------------------------------
 ----------------------------------------------------------------
-| 62 | As a Man Thinketh | James Allen | 10 | not-owned | False |
+| 62 | As a Man Thinketh | James Allen | 10 | not owned | False |
 ----------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------
 | 63 | Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Powers to Succeed | Brian Tracy | 10 | owned | False |
@@ -197,7 +197,7 @@
 | 67 | Operation Barbarossa 2nd Panzergruppe in Russia June 21 1941 | Heinz Guaderian | 10 | owned | False |
 -----------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------
-| 68 | Sleep Smarter | Shawn Stevenson | 8 | not-owned | False |
+| 68 | Sleep Smarter | Shawn Stevenson | 8 | not owned | False |
 ---------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------
 | 69 | Find Your Why A Practical Guide for Discovering Purpose for You and Your Team | Simon Sinek | 7 | owned | False |
@@ -217,3 +217,75 @@
 ---------------------------------------------------------------------
 | 74 | Students Secrets Revealed | Dean Graziosi | 8 | owned | False |
 ---------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
+| 75 | The Four Pillars of Investing Lessons for Building a Winning Portfolio | William Bernstein | 10 | owned | False |
+-----------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------
+| 76 | Speed Reading For Dummies | Richard Sutz | 10 | owned | False |
+---------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 77 | The H Factor of Personality Why Some People are Manipulative, Self Entitled, Materialistic, and Exploitive And Why It Matters for Everyone | Kibeom Lee | 8 | owned | False |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+| 78 | Built to Sell Creating a Business That Can Thrive Without You | John Warrillow | 9 | owned | False |
+----------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
+| 79 | Rich Dads Guide to Investing What the Rich Invest in That the Poor and Middle Class Do Not |  Robert T. Kiyosaki | 8 | owned | False |
+--------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+| 80 | Passive Income Stop Working   Start Living   Make money while you sleep | Ralph Waters | 10 | owned | False |
+-------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+| 81 | The Freelancers Bible Everything You Need to Know to Have the Career of Your Dreams   On Your Terms | Sara Horowitz | 10 | owned | False |
+------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------
+| 82 | The Selfish Gene | Richard Dawkins | 8 | owned | False |
+--------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+| 83 | How to Analyze People   Dark Secrets to Analyze and Influence Anyone Using Body Language  | James Williams | 6 | owned | False |
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+| 84 | No One Understands You and What to Do About It | Heidi Grant Halvorson | 6 | owned | False |
+--------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+| 85 | The Greatest Minds and Ideas of All Time | Will Durant | 10 | owned | False |
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+| 86 | Purple Cow Transform Your Business by Being Remarkable | Seth Godin | 8 | owned | False |
+-----------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+| 87 | A Night to Remember The Classic Bestselling Account of the Sinking of the Titanic | Walter Lord | 8 | owned | False |
+---------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
+| 88 | Business Adventures Twelve Classic Tales from the World of Wall Street | John Brooks | 7 | owned | False |
+----------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
+| 89 | Why We Buy The Science of Shopping  Updated and Revised for the Internet, the Global Consumer, and Beyond | Paco Underhill | 8 | owned | False |
+------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+| 90 | Activate Your Brain How Understanding Your Brain Can Improve Your Work   and Your Life | Scott G. Halford | 8 | owned | False |
+-------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+| 91 | Listen out loud  a life in music  managing McCartney, Madonna, and Michael Jackson | Weisner | 7 | owned | False |
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
+| 92 | The Art of Creative Thinking How to Be Innovative and Develop Great Ideas | John Adair | 8 | owned | False |
+------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+| 93 | Focus use different ways of seeing the world for success and influence | Heidi Grant Halvorson | 10 | owned | False |
+---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 94 | Leadership Secrets of the Worlds Most Successful CEOs 100 Top Executives Reveal the Management Strategies That Made Their Companies Great | Eric Yaverbaum | 10 | owned | False |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
+| 95 | Managing Oneself | Peter Ferdinand Drucker | 10 | owned | False |
+-----------------------------------------------------------------------
+--------------------------------------------------------------------------
+| 96 | The Richest Man in Babylon | George S. Clason | 10 | owned | False |
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+| 97 | You Are a Badass How to Stop Doubting Your Greatness and Start Living an Awesome Life | Jen Sincero | 10 | owned | False |
+--------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------
+| 98 | The Art of War | Sun Tzu | 10 | owned | False |
+-----------------------------------------------------
