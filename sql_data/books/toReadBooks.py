@@ -119,6 +119,16 @@ class toReadBooks():
 		{id: 96, book_title: "The Richest Man in Babylon", author: "George S. Clason", want_level: 10, status: "owned", done_to_read: False},
 		{id: 97, book_title: "You Are a Badass How to Stop Doubting Your Greatness and Start Living an Awesome Life", author: "Jen Sincero", want_level: 10, status: "owned", done_to_read: False},
 		{id: 98, book_title: "The Art of War", author: "Sun Tzu", want_level: 10, status: "owned", done_to_read: False},
+		{id: 99, book_title: "Grit The Power of Passion and Perseverance", author: "Angela Duckworth", want_level: 8, status: "owned", done_to_read: False},
+		{id: 100, book_title: "Book Yourself Solid The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling", author: "Michael Port", want_level: 10, status: "owned", done_to_read: False},
+		{id: 101, book_title: "Tested Advertising Methods", author: "John Caples", want_level: 10, status: "owned", done_to_read: False},
+		{id: 102, book_title: "The Winner Effect The Neuroscience of Success and Failure", author: "Ian H. Robertson", want_level: 10, status: "owned", done_to_read: False},
+		{id: 103, book_title: "Creative Cash Flow Reporting Uncovering Sustainable Financial Performance", author: "Charles W. Mulford", want_level: 10, status: "owned", done_to_read: False},
+		{id: 104, book_title: "Rich Dads Increase Your Financial IQ Get Smarter with Your Money", author: "Robert T. Kiyosaki", want_level: 10, status: "owned", done_to_read: False},
+		{id: 105, book_title: "The Courage to be Disliked How to Change Your Life and Achieve Real Happiness ", author: "Ichiro Kishimi Fumitake Koga", want_level: 10, status: "owned", done_to_read: False},
+		{id: 106, book_title: "The Wealth Paradox Economic Prosperity and the Hardening of Attitudes", author: "Frank Mols", want_level: 10, status: "owned", done_to_read: False},
+		{id: 107, book_title: "The Financial Rules for New College Graduates Invest before Paying Off Debt and Other Tips Your Professors Didn’t Teach You", author: "Michael C Taylor", want_level: 10, status: "owned", done_to_read: False},
+		{id: 108, book_title: "The Millionaire Next Door The Surprising Secrets of Americas Wealthy", author: "Thomas J. Stanley", want_level: 10, status: "owned", done_to_read: False},
 	]
 
 db_actions = db_operations()
