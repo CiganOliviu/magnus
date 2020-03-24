@@ -129,6 +129,16 @@ class toReadBooks():
 		{id: 106, book_title: "The Wealth Paradox Economic Prosperity and the Hardening of Attitudes", author: "Frank Mols", want_level: 10, status: "owned", done_to_read: False},
 		{id: 107, book_title: "The Financial Rules for New College Graduates Invest before Paying Off Debt and Other Tips Your Professors Didn’t Teach You", author: "Michael C Taylor", want_level: 10, status: "owned", done_to_read: False},
 		{id: 108, book_title: "The Millionaire Next Door The Surprising Secrets of Americas Wealthy", author: "Thomas J. Stanley", want_level: 10, status: "owned", done_to_read: False},
+		{id: 109, book_title: "The folly of fools  the logic of deceit and self-deception in human life", author: "Trivers", want_level: 6, status: "owned", done_to_read: False},
+		{id: 110, book_title: "Principles of Marketing", author: "Philip T. Kotler", want_level: 7, status: "owned", done_to_read: False},
+		{id: 111, book_title: "This Is Marketing You Can’t Be Seen Until You Learn to See", author: "Seth Godin", want_level: 6, status: "owned", done_to_read: False},
+		{id: 112, book_title: "The Splendid and the Vile", author: "Erik Larson", want_level: 9, status: "owned", done_to_read: False},
+		{id: 113, book_title: "The ANSI C Programming Language", author: "Dennis M. Ritchie", want_level: 10, status: "owned", done_to_read: False},
+		{id: 114, book_title: "The C++ Programming Language, 4th Edition", author: "Stroustrup B.", want_level: 9, status: "owned", done_to_read: False},
+		{id: 115, book_title: "Fluent Python", author: "Luciano Ramalho", want_level: 9, status: "owned", done_to_read: False},
+		{id: 116, book_title: "The Book on Tax Strategies for the Savvy Real Estate Investor Powerful techniques anyone can use to deduct more, invest smarter, and pay far less to the IRS", author: "Amanda Han", want_level: 9, status: "owned", done_to_read: False},
+		{id: 117, book_title: "The Book on Flipping Houses How to Buy, Rehab, and Resell Residential Properties", author: "J. Scott", want_level: 10, status: "owned", done_to_read: False},
+		{id: 118, book_title: "Disrupt You Master Personal Transformation, Seize Opportunity, and Thrive in the Era of Endless Innovation", author: "Jay Samit", want_level: 9, status: "owned", done_to_read: False},
 	]
 
 db_actions = db_operations()
