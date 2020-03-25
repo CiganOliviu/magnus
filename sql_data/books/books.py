@@ -85,7 +85,8 @@ class books():
 		{id: 64, book_title: "The One Thing", author: "Garry Keller"},
 		{id: 65, book_title: "Be obsessed or be average", author: "Grant Cardone"},
 		{id: 66, book_title: "24 Patterns for Clean Code", author: "Robert Beisert"},
-		{id: 67, book_title: "Clean Arhitecture", author: "Robert C. Martin"}
+		{id: 67, book_title: "Clean Arhitecture", author: "Robert C. Martin"},
+		{id: 68, book_title: "Man alone with himself", author: "R. J. Nietzsche"}
 	]
 
 
