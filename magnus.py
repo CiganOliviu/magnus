@@ -13,12 +13,6 @@ class templates():
 
     def database_template(file_object, database_name):
 
-        file_object.write("import sys\n\n")
-        file_object.write("sys.path.append('magnus/sql_data/')\n\n")
-        file_object.write("from db_operations import db_operations\n\n")
-        file_object.write("# should be global based on moment circumstances\n\n")
-        file_object.write("global PATH\n")
-        file_object.write("PATH = 'magnus/sql_data/'\n\n")
         file_object.write("class " + str(database_name) + "():\n\n")
         file_object.write("\tdef __init__(self):\n")
         file_object.write("\t\tsuper(" + str(database_name) + ", self).__init__()\n\n")

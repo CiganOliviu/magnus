@@ -1,14 +1,3 @@
-import sys
-
-sys.path.append('magnus/sql_data/')
-
-from db_operations import db_operations
-
-# should be global based on moment circumstances
-
-global PATH
-PATH = 'magnus/sql_data/'
-
 class toReadBooks():
 
 	def __init__(self):
@@ -178,11 +167,3 @@ class toReadBooks():
 		{id: 155, book_title: "The Audacity of Hope. Thoughts on Reclaiming the American Dream", author: "Barack Obama", want_level: 9, status: "owned", done_to_read: False},
 		{id: 156, book_title: "The Sales Bible The Ultimate Sales Resource, Revised Edition", author: "Jeffrey Gitomer", want_level: 9, status: "owned", done_to_read: False},
 	]
-
-db_actions = db_operations()
-
-db_actions.describe(toReadBooks)
-
-db_actions.insert_table_in_file(PATH + "/books/saved_data/toReadBooks.data", toReadBooks)
-
-db_actions.save_activity("books/logfiles/", "toReadBooks")

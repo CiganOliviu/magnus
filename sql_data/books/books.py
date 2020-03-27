@@ -1,14 +1,3 @@
-import sys
-
-sys.path.append('magnus/sql_data/')
-
-from db_operations import db_operations
-
-# should be global based on moment circumstances
-
-global PATH
-PATH = 'magnus/sql_data/'
-
 class books():
 
 	def __init__(self):
@@ -88,10 +77,3 @@ class books():
 		{id: 67, book_title: "Clean Arhitecture", author: "Robert C. Martin"},
 		{id: 68, book_title: "Man alone with himself", author: "R. J. Nietzsche"}
 	]
-
-
-db_actions = db_operations()
-
-db_actions.select_from_table(books)
-db_actions.insert_table_in_file(PATH + "/books/saved_data/books.data", books)
-db_actions.save_activity("books/logfiles/", "books")

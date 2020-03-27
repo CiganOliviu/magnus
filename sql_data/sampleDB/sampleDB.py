@@ -1,9 +1,3 @@
-from db_operations import db_operations
-
-# should be global based on moment circumstances
-global PATH
-PATH = "magnus/sql_data/"
-
 class sampleDB():
 
 	def __init__(self):
@@ -34,37 +28,3 @@ class sampleDB():
 		{id: 16, name: "smart-code-notes", programming_language: "None", license: "MIT", status: "in progress"},
 		{id: 17, name: "rudy", programming_language: "PHP", license: "MIT", status: "in progress"}
 	]
-
-db_actions = db_operations()
-
-
-print("\nC projects")
-db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "C")
-
-print("\nC++17 projects")
-db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "C++17")
-
-print("\nCSharp projects")
-db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "CSharp")
-
-print("\nJava projects")
-db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Java")
-
-print("\nPython3 projects")
-db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Python3")
-
-print("\nJupyter Notebook projects")
-db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Jupyter Notebook")
-
-print("\nJavaScript projects")
-db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "JavaScript")
-
-print("\nSwift projects")
-db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Swift")
-
-print("\nPHP projects")
-db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "PHP")
-
-db_actions.insert_table_in_file(PATH + "/sampleDB/saved_data/programming_languages_classification.data", sampleDB)
-
-db_actions.save_activity("sampleDB", "sampleDB")
