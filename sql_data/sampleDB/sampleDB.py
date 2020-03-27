@@ -1,7 +1,3 @@
-import sys
-
-sys.path.append('magnus/sql_data/')
-
 from db_operations import db_operations
 
 # should be global based on moment circumstances
