@@ -1,10 +1,6 @@
 import datetime
 import os
 
-# should be global based on moment circumstances
-global PATH
-PATH = "magnus/sql_data/"
-
 class templates():
 
     def __init__(self):
@@ -119,6 +115,6 @@ class db_operations():
         datetime_list_template = []
         templates.datetime_template(datetime_list_template)
 
-        filelog = open(PATH + db_name + "/" + db_table + "_logfile.txt", "a")
+        filelog = open(db_name + "/" + db_table + "_logfile.txt", "a")
         filelog.write(str(datetime_list_template) + '\n')
         filelog.close()
