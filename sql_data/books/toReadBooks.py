@@ -168,6 +168,15 @@ class toReadBooks():
 		{id: 145, book_title: "The End of Faith Religion, Terror, and the Future of Reason", author: "Sam Harris", want_level: 9, status: "owned", done_to_read: False},
 		{id: 146, book_title: "The Moral Landscape How Science Can Determine Human Values", author: "Sam Harris", want_level: 9, status: "owned", done_to_read: False},
 		{id: 147, book_title: "The trouble with being born", author: "E. M. Cioran", want_level: 10, status: "owned", done_to_read: False},
+		{id: 148, book_title: "The Social Media Marketing Book", author: "Dan Zarrella", want_level: 9, status: "owned", done_to_read: False},
+		{id: 149, book_title: "Sell with a Story How to Capture Attention, Build Trust, and Close the Sale", author: "Paul Smith", want_level: 8, status: "owned", done_to_read: False},
+		{id: 150, book_title: "Smart Pricing How Google, Priceline, and Leading Businesses Use Pricing Innovation for Profitability", author: "Jagmohan Raju", want_level: 8, status: "owned", done_to_read: False},
+		{id: 151, book_title: "Assassins Creed The Secret Crusade", author: "Bowden Oliver", want_level: 6, status: "owned", done_to_read: False},
+		{id: 152, book_title: "Assassins Creed Revelations", author: "Oliver Bowden", want_level: 5, status: "owned", done_to_read: False},
+		{id: 153, book_title: "Guns, Germs, and Steel The Fates of Human Societies", author: "Jared M. Diamond", want_level: 10, status: "owned", done_to_read: False},
+		{id: 154, book_title: "Long Walk to Freedom The Autobiography of Nelson Mandela", author: "Nelson Mandela", want_level: 10, status: "owned", done_to_read: False},
+		{id: 155, book_title: "The Audacity of Hope. Thoughts on Reclaiming the American Dream", author: "Barack Obama", want_level: 9, status: "owned", done_to_read: False},
+		{id: 156, book_title: "The Sales Bible The Ultimate Sales Resource, Revised Edition", author: "Jeffrey Gitomer", want_level: 9, status: "owned", done_to_read: False},
 	]
 
 db_actions = db_operations()
