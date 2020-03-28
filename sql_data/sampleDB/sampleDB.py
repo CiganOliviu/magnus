@@ -26,5 +26,6 @@ class sampleDB():
 		{id: 14, name: "X-and-0-game", programming_language: "CSharp", license: "Apache License 2.0", status: "stable"},
 		{id: 15, name: "csharp-algo-data-structures", programming_language: "CSharp", license: "MIT", status: "stable"},
 		{id: 16, name: "smart-code-notes", programming_language: "None", license: "MIT", status: "in progress"},
-		{id: 17, name: "rudy", programming_language: "PHP", license: "MIT", status: "in progress"}
+		{id: 17, name: "rudy", programming_language: "PHP", license: "MIT", status: "in progress"}, 
+		{id: 18, name: "network-programming", programming_language: "Java", license: "Apache License 2.0", status: "stable"}, 
 	]

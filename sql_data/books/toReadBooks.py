@@ -166,4 +166,13 @@ class toReadBooks():
 		{id: 154, book_title: "Long Walk to Freedom The Autobiography of Nelson Mandela", author: "Nelson Mandela", want_level: 10, status: "owned", done_to_read: False},
 		{id: 155, book_title: "The Audacity of Hope. Thoughts on Reclaiming the American Dream", author: "Barack Obama", want_level: 9, status: "owned", done_to_read: False},
 		{id: 156, book_title: "The Sales Bible The Ultimate Sales Resource, Revised Edition", author: "Jeffrey Gitomer", want_level: 9, status: "owned", done_to_read: False},
+		{id: 157, book_title: "Building Structures Illustrated Patterns, Systems, and Design", author: "Francis D. K. Ching", want_level: 10, status: "owned", done_to_read: False},
+		{id: 158, book_title: "R for Data Science Import, Tidy, Transform, Visualize, and Model Data", author: "Hadley Wickham", want_level: 9, status: "owned", done_to_read: False},
+		{id: 159, book_title: "Regular Expression Pocket Reference Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET", author: "Tony Stubblebine", want_level: 10, status: "owned", done_to_read: False},
+		{id: 160, book_title: "Learn Rails 5.2 Accelerated Web Development with Ruby on Rails", author: "Wintermeyer", want_level: 8, status: "owned", done_to_read: False},
+		{id: 161, book_title: "Building Microservices", author: "Sam Newman", want_level: 10, status: "owned", done_to_read: False},
+		{id: 162, book_title: "Superintelligence Paths, Dangers, Strategies", author: "Nick Bostrom", want_level: 10, status: "owned", done_to_read: False},
+		{id: 163, book_title: "Blake Masters Zero to One Notes on Startups, or How to Build the Future Crown Business", author: "Peter Thiel", want_level: 8, status: "owned", done_to_read: False},
+		{id: 164, book_title: "Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive", author: "Kevin Horsley", want_level: 7, status: "owned", done_to_read: False},
+		{id: 165, book_title: "How to Sleep Well", author: "Neil Stanley", want_level: 10, status: "owned", done_to_read: False},
 	]
