@@ -211,4 +211,13 @@ class toReadBooks():
 		{id: 200, book_title: "The Go Programming Language", author: "Alan A. A", want_level: 9, done_to_read: False},
 		{id: 201, book_title: "Training Your Brain For Dummies", author: "Tracy Packiam Alloway", want_level: 10, done_to_read: False},
 		{id: 202, book_title: "Trump Strategies for Real Estate Billionaire Lessons for the Small Investor", author: "George Ross", want_level: 6, done_to_read: False},
+		{id: 203, book_title: "Becoming a Better Programmer A Handbook for People Who Care About Code", author: "Pete Goodliffe", want_level: 9, done_to_read: False},
+		{id: 204, book_title: "Technology Strategy Patterns Architecture as Strategy", author: "Eben Hewitt", want_level: 10, done_to_read: False},
+		{id: 205, book_title: "Test-Driven Development with Python Obey the Testing Goat Using Django, Selenium, and JavaScript", author: "Harry J. W. Percival", want_level: 10, done_to_read: False},
+		{id: 206, book_title: "Flask Web Development Developing Web Applications with Python", author: "Miguel Grinberg", want_level: 8, done_to_read: False},
+		{id: 207, book_title: "Coding Theory Algorithms, Architectures, and Applications", author: "Andre Neubauer", want_level: 8, done_to_read: False},
+		{id: 208, book_title: "The Performance of Open Source Applications", author: "Tavish Armstrong", want_level: 10, done_to_read: False},
+		{id: 209, book_title: "The Architecture Of Open Source Applications, Volume II", author: "Amy Brown", want_level: 10, done_to_read: False},
+		{id: 210, book_title: "The Power of Habit Why We Do What We Do in Life and Business", author: "Charles Duhigg", want_level: 10, done_to_read: False},
+		{id: 211, book_title: "The Architecture Of Open Source Applications", author: "Amy Brown", want_level: 10, done_to_read: False},
 	]
