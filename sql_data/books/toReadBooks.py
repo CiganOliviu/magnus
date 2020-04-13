@@ -240,5 +240,6 @@ class toReadBooks():
 		{id: 229, book_title: "The Non-Designers Design Book", author: "Robin Williams", want_level: 10, done_to_read: False},
 		{id: 230, book_title: "UX Fundamentals for Non-UX Professionals User Experience Principles for Managers, Writers, Designers, and Developers", author: "Edward Stull", want_level: 10, done_to_read: False},
 		{id: 231, book_title: "The Design of Everyday Things - Revised and Expanded Edition", author: "Don Norman", want_level: 8, done_to_read: False},
-		# {id: 232, book_title: "", author: "", want_level: , done_to_read: False},
+		{id: 232, book_title: "Implementation Patterns", author: "Kent Beck", want_level: 10, done_to_read: False},
+		# {id: 233, book_title: "", author: "", want_level: , done_to_read: False},
 	]
