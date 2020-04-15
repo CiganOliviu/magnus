@@ -12,21 +12,40 @@ class sampleDB():
 	dataset = [
 		{id: 1, name: "magnus", programming_language: "Python3", license: "MIT", status: "stable"},
 		{id: 2, name: "misha", programming_language: "Python3", license: "MIT", status: "stable"},
-		{id: 3, name: "esential", programming_language: "C++17", license: "MIT", status: "stable"},
-		{id: 4, name: "easyPass", programming_language: "C++17", license: "MIT", status: "stable"},
-		{id: 5, name: "easyPass-WS", programming_language: "C++17", license: "MIT", status: "stable"},
-		{id: 6, name: "clean-systems", programming_language: "C++17", license: "MIT", status: "stable"},
-		{id: 7, name: "cpp-algo-data-structures", programming_language: "C++17", license: "MIT", status: "stable"},
-		{id: 8, name: "c-algo-data-structures", programming_language: "C", license: "MIT", status: "stable"},
-		{id: 9, name: "clean-TDD", programming_language: "C", license: "MIT", status: "stable"},
-		{id: 10, name: "cosmo", programming_language: "Swift", license: "MIT", status: "stable"},
-		{id: 11, name: "doppler", programming_language: "JavaScript", license: "MIT", status: "stable"},
-		{id: 12, name: "data-analysis-systems", programming_language: "Jupyter Notebook", license: "MIT", status: "stable"},
-		{id: 13, name: "rock-paper-scissors-lizard-spock", programming_language: "Java", license: "Apache License 2.0", status: "stable"},
-		{id: 14, name: "X-and-0-game", programming_language: "CSharp", license: "Apache License 2.0", status: "stable"},
-		{id: 15, name: "csharp-algo-data-structures", programming_language: "CSharp", license: "MIT", status: "stable"},
-		{id: 16, name: "smart-code-notes", programming_language: "None", license: "MIT", status: "in progress"},
-		{id: 17, name: "rudy", programming_language: "PHP", license: "MIT", status: "in progress"},
+		{id: 3, name: "python-ds", programming_language: "Python3", license: "MIT", status: "stable"},
+		{id: 4, name: "Carla-RL", programming_language: "Python3", license: "MIT", status: "stable"},
+
+		{id: 5, name: "esential", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 6, name: "easyPass", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 7, name: "easyPass-WS", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 8, name: "clean-systems", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 9, name: "cpp-algo-data-structures", programming_language: "C++17", license: "MIT", status: "stable"},
+		{id: 10, name: "better-workflow-pointers", programming_language: "C++17", license: "MIT", status: "stable"},
+
+		{id: 11, name: "c-algo-data-structures", programming_language: "C", license: "MIT", status: "stable"},
+		{id: 12, name: "clean-TDD", programming_language: "C", license: "MIT", status: "stable"},
+
+		{id: 13, name: "cosmo", programming_language: "Swift", license: "MIT", status: "stable"},
+
+		{id: 14, name: "doppler", programming_language: "JavaScript", license: "MIT", status: "stable"},
+
+		{id: 15, name: "data-analysis-systems", programming_language: "Jupyter Notebook", license: "MIT", status: "stable"},
+		{id: 16, name: "quantum-computer-programming", programming_language: "Jupyter Notebook", license: "MIT", status: "stable"},
+
+		{id: 17, name: "rock-paper-scissors-lizard-spock", programming_language: "Java", license: "Apache License 2.0", status: "stable"},
 		{id: 18, name: "network-programming", programming_language: "Java", license: "Apache License 2.0", status: "stable"},
-		{id: 19, name: "project-development-time-estimator", programming_language: "Rust", license: "MIT", status: "stable"},
+		{id: 19, name: "PPP", programming_language: "Java", license: "None", status: "stable"},
+
+		{id: 20, name: "X-and-0-game", programming_language: "CSharp", license: "Apache License 2.0", status: "stable"},
+		{id: 21, name: "csharp-algo-data-structures", programming_language: "CSharp", license: "MIT", status: "stable"},
+		{id: 22, name: "ARCFOUR-CSharp", programming_language: "CSharp", license: "MIT", status: "stable"},
+
+		{id: 23, name: "smart-code-notes", programming_language: "None", license: "MIT", status: "in progress"},
+
+		{id: 24, name: "rudy", programming_language: "PHP", license: "MIT", status: "in progress"},
+
+		{id: 25, name: "project-development-time-estimator", programming_language: "Rust", license: "MIT", status: "stable"},
+		{id: 26, name: "cross-reference-generator", programming_language: "Rust", license: "MIT", status: "stable"},
+
+		{id: 27, name: "herra", programming_language: "Go", license: "MIT", status: "stable"},
 	]

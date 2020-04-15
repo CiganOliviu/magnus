@@ -35,6 +35,9 @@ db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "PHP")
 print("\nRust projects")
 db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Rust")
 
+print("\nGo projects")
+db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Go")
+
 db_actions.insert_table_in_file(PATH + "/sampleDB/saved_data/programming_languages_classification.data", sampleDB)
 
 db_actions.save_activity(PATH + "sampleDB", "sampleDB")
