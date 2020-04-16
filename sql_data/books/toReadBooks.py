@@ -241,5 +241,11 @@ class toReadBooks():
 		{id: 230, book_title: "UX Fundamentals for Non-UX Professionals User Experience Principles for Managers, Writers, Designers, and Developers", author: "Edward Stull", want_level: 10, done_to_read: False},
 		{id: 231, book_title: "The Design of Everyday Things - Revised and Expanded Edition", author: "Don Norman", want_level: 8, done_to_read: False},
 		{id: 232, book_title: "Implementation Patterns", author: "Kent Beck", want_level: 10, done_to_read: False},
-		# {id: 233, book_title: "", author: "", want_level: , done_to_read: False},
+		{id: 233, book_title: "501 Web site secrets unleash the power of Google, Amazon, eBay, and more", author: "Michael Miller", want_level: 8, done_to_read: False},
+		{id: 234, book_title: "Passive income  develop a passive income empire  complete beginners guide to building riches through multiple streams", author: "Wolf, Simon", want_level: 10, done_to_read: False},
+		{id: 235, book_title: "Passive Income 30 Strategies and Ideas To Start an Online Business and Acquiring Financial Freedom", author: "Richard Gadson", want_level: 9, done_to_read: False},
+		{id: 236, book_title: "Smarter Faster Better The Secrets of Being Productive in Life and Business", author: "Charles Duhigg", want_level: 10, done_to_read: False},
+		{id: 237, book_title: "Steve Jobs", author: "Isaacson Walter", want_level: 7, done_to_read: False},
+		{id: 238, book_title: "The Leadership Training Activity Book 50 Exercises for Building Effective Leaders", author: "Lois B. Hart", want_level: 9, done_to_read: False},
+		{id: 239, book_title: "The Real Book of Real Estate Real Experts. Real Stories. Real Life.", author: "Robert T. Kiyosaki", want_level: 9, done_to_read: False},
 	]
