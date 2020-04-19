@@ -248,4 +248,8 @@ class toReadBooks():
 		{id: 237, book_title: "Steve Jobs", author: "Isaacson Walter", want_level: 7, done_to_read: False},
 		{id: 238, book_title: "The Leadership Training Activity Book 50 Exercises for Building Effective Leaders", author: "Lois B. Hart", want_level: 9, done_to_read: False},
 		{id: 239, book_title: "The Real Book of Real Estate Real Experts. Real Stories. Real Life.", author: "Robert T. Kiyosaki", want_level: 9, done_to_read: False},
+		{id: 240, book_title: "A Passion for Mathematics - Numbers, Puzzles, Madness, Religion, and the Quest for Reality", author: "Clifford A. Pickover", want_level: 6, done_to_read: False},
+		{id: 241, book_title: "Getting Started with TypeScript  Includes Introduction to Angular", author: "Thomas Claudius Huber", want_level: 10, done_to_read: False},
+		{id: 242, book_title: "Logic made easy how to know when language deceives you", author: "Deborah J. Bennett", want_level: 10, done_to_read: False},
+		# {id: 244, book_title: , author: , want_level, done_to_read: },
 	]
