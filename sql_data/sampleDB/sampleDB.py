@@ -39,13 +39,17 @@ class sampleDB():
 		{id: 20, name: "X-and-0-game", programming_language: "CSharp", license: "Apache License 2.0", status: "stable"},
 		{id: 21, name: "csharp-algo-data-structures", programming_language: "CSharp", license: "MIT", status: "stable"},
 		{id: 22, name: "ARCFOUR-CSharp", programming_language: "CSharp", license: "MIT", status: "stable"},
+		{id: 23, name: "SOLID", programming_language: "CSharp", license: "MIT", status: "in progress"},
 
-		{id: 23, name: "smart-code-notes", programming_language: "None", license: "MIT", status: "in progress"},
+		{id: 24, name: "smart-code-notes", programming_language: "None", license: "MIT", status: "in progress"},
 
-		{id: 24, name: "rudy", programming_language: "PHP", license: "MIT", status: "in progress"},
+		{id: 25, name: "rudy", programming_language: "PHP", license: "MIT", status: "in progress"},
+		{id: 26, name: "refactoring-sample", programming_language: "PHP", license: "MIT", status: "in progress"},
 
-		{id: 25, name: "project-development-time-estimator", programming_language: "Rust", license: "MIT", status: "stable"},
-		{id: 26, name: "cross-reference-generator", programming_language: "Rust", license: "MIT", status: "stable"},
+		{id: 27, name: "project-development-time-estimator", programming_language: "Rust", license: "MIT", status: "stable"},
+		{id: 28, name: "cross-reference-generator", programming_language: "Rust", license: "MIT", status: "stable"},
 
-		{id: 27, name: "herra", programming_language: "Go", license: "MIT", status: "stable"},
+		{id: 29, name: "herra", programming_language: "Go", license: "MIT", status: "stable"},
+
+		{id: 30, name: "kotlin-tdd", programming_language: "Kotlin", license: "MIT", status: "stable"},
 	]
