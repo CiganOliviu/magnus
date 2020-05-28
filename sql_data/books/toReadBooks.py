@@ -251,5 +251,8 @@ class toReadBooks():
 		{id: 240, book_title: "A Passion for Mathematics - Numbers, Puzzles, Madness, Religion, and the Quest for Reality", author: "Clifford A. Pickover", want_level: 6, done_to_read: False},
 		{id: 241, book_title: "Getting Started with TypeScript  Includes Introduction to Angular", author: "Thomas Claudius Huber", want_level: 10, done_to_read: False},
 		{id: 242, book_title: "Logic made easy how to know when language deceives you", author: "Deborah J. Bennett", want_level: 10, done_to_read: False},
+		{id: 243, book_title: "The temptation to exist", author: "Emil Cioran", want_level: 10, done_to_read: False},
+		{id: 244, book_title: "The Psychology Book", author: "DK", want_level: 8, done_to_read: False},
+		{id: 245, book_title: "The classical music book", author: "DK", want_level: 9, done_to_read: False},
 		# {id: 244, book_title: , author: , want_level, done_to_read: },
 	]
