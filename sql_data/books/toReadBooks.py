@@ -152,7 +152,7 @@ class toReadBooks():
 		{id: 140, book_title: "Contagious Why Things Catch On", author: "Berger Jonah", want_level: 8, status: "owned", done_to_read: False},
 		{id: 141, book_title: "Eat the Yolks Discover Paleo, fight food lies, and reclaim your health", author: "Wolfe", want_level: 8, status: "owned", done_to_read: False},
 		{id: 142, book_title: "King of Capital The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone", author: "David Carey", want_level: 6, status: "owned", done_to_read: False},
-		{id: 143, book_title: "On the Heights of Despair", author: "E. M. Cioran", want_level: 10, status: "owned", done_to_read: False},
+		{id: 143, book_title: "On the Heights of Despair", author: "E. M. Cioran", want_level: 10, status: "owned", done_to_read: True},
 		{id: 144, book_title: "Red notice a true story of high finance, murder, and one mans fight for justice", author: "Bill Browder", want_level: 8, status: "owned", done_to_read: False},
 		{id: 145, book_title: "The End of Faith Religion, Terror, and the Future of Reason", author: "Sam Harris", want_level: 9, status: "owned", done_to_read: False},
 		{id: 146, book_title: "The Moral Landscape How Science Can Determine Human Values", author: "Sam Harris", want_level: 9, status: "owned", done_to_read: False},

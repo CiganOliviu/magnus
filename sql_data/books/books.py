@@ -77,4 +77,5 @@ class books():
 		{id: 67, book_title: "Clean Arhitecture", author: "Robert C. Martin"},
 		{id: 68, book_title: "Man alone with himself", author: "R. J. Nietzsche"},
 		{id: 69, book_title: "The Clean Coder", author: "Robert C. Martin"},
+		{id: 70, book_title: "On the heights of despair", author: "Emil Cioran"}, 
 	]
