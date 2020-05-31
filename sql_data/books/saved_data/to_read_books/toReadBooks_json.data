@@ -1,0 +1,243 @@
+{'id': 1, 'title': 'Think Again', 'author': 'Walter Sinnott Armstrong', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 2, 'title': 'Think and Grow Rich', 'author': 'Napoleon Hill', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 3, 'title': 'The Underdog Advantage', 'author': 'Dean Graziosi', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 4, 'title': 'The subtle art of not giving a fuck', 'author': 'Mark Manson', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 5, 'title': 'The power of now', 'author': 'Eckhart Tolle', 'want level': 5, 'status': 'owned', 'done to read': False}
+{'id': 6, 'title': 'The millionaire real estate investor', 'author': 'Gary Keller', 'want level': 4, 'status': 'owned', 'done to read': False}
+{'id': 7, 'title': 'The Handbook evolutionary psichology', 'author': 'David Buss', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 8, 'title': 'The Clean Coder', 'author': 'Robert C. Martin', 'want level': 10, 'status': 'owned', 'done to read': True}
+{'id': 9, 'title': 'Rental Property Investing', 'author': 'Brandon Turner', 'want level': 4, 'status': 'owned', 'done to read': False}
+{'id': 10, 'title': 'The 80/20 rule', 'author': 'Richard Koch', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 11, 'title': 'The 4 hour workweek', 'author': 'Timothy Ferriss', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 12, 'title': 'Start with why', 'author': 'Simon Sinek', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 13, 'title': 'Smart Thinking', 'author': 'Matthew Allen', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 14, 'title': 'The rules of work', 'author': 'Richard Templar', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 15, 'title': 'Rich Dad Poor Dad', 'author': 'Robert T. Kiyosaki', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 16, 'title': "So good they can't ignore you", 'author': 'Cal Newport', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 17, 'title': 'Mindset', 'author': 'Dr Carol S. Dweck', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 18, 'title': 'Dark psichology to manipulate and control people', 'author': 'Arthur Horn', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 19, 'title': 'Introduction to machine learning with Python', 'author': 'Andreas C. Muller and Sarah Guido', 'want level': 5, 'status': 'owned', 'done to read': False}
+{'id': 20, 'title': 'How to invest in real estate', 'author': 'Robert Waller', 'want level': 5, 'status': 'owned', 'done to read': False}
+{'id': 21, 'title': 'Exactly what to say', 'author': 'Phil M. Jones', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 22, 'title': 'Everything is fucked', 'author': 'Mark Manson', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 23, 'title': 'Elon Musk', 'author': 'Ashlee Vance', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 24, 'title': 'Ego is the enemy', 'author': 'Ryan Holiday', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 25, 'title': 'Dark psichology', 'author': 'Richard Campbell', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 26, 'title': 'Why We Sleep', 'author': 'Matthew Walker', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 28, 'title': 'Clean Arhitecture', 'author': 'Robert C. Martin', 'want level': 10, 'status': 'owned', 'done to read': True}
+{'id': 29, 'title': 'Code Complete: A Practical Handbook of Software Construction: ', 'author': 'Steve McConnell', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 30, 'title': 'Structure and Interpretation of Computer Programs, 2nd Edition (MIT Electrical Engineering and Computer Science)', 'author': 'Harold Abelso', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 31, 'title': 'Design patterns : elements of reusable object oriented software', 'author': 'Erich Gamma', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 32, 'title': 'Head First Design Patterns', 'author': 'Eric Freeman', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 33, 'title': 'Refactoring: Improving the Design of Existing Code (Object Technology Series)', 'author': 'Kent Beck', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 34, 'title': 'Working Effectively with Legacy Code', 'author': 'Michael Feathers', 'want level': 10, 'status': 'not owned', 'done to read': False}
+{'id': 35, 'title': 'The Art of Computer Programming, Volumes 1 4A Boxed Set (Box Set)', 'author': 'Donald E. Knuth', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 36, 'title': 'Compilers: Principles, Techniques, and Tools', 'author': 'Alfred V. Aho', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 37, 'title': "The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job", 'author': 'John Sonmez', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 38, 'title': 'The Pragmatic Programmer: From Journeyman to Master', 'author': 'Andrew Hunt', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 39, 'title': 'The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life)', 'author': 'Chad Fowler', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 40, 'title': 'The Mythical Man Month: Essays on Software Engineering, Anniversary Edition', 'author': 'Frederick P. Brooks Jr.', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 41, 'title': 'Domain Driven Design: Tackling Complexity in the Heart of Software', 'author': 'Eric Evans', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 42, 'title': 'Patterns of Enterprise Application Architecture (The Addison Wesley Signature Series)', 'author': 'Martin Fowler', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 43, 'title': 'Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions (Addison Wesley Signature Series (Fowler))', 'author': 'Gregor Hohpe', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 44, 'title': 'Refactoring to Patterns (Addison Wesley Signature)', 'author': 'Joshua Kerievsky', 'want level': 10, 'status': 'not owned', 'done to read': False}
+{'id': 45, 'title': 'Agile Software Development, Principles, Patterns, and Practices', 'author': 'Robert C. Martin', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 46, 'title': 'Agile Principles, Patterns, and Practices in C#', 'author': 'Robert C. Martin', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 47, 'title': 'Agile Estimating and Planning', 'author': 'Robert C, Martin', 'want level': 10, 'status': 'not owned', 'done to read': False}
+{'id': 48, 'title': 'User Stories Applied: For Agile Software Development (Addison Wesley Signature)', 'author': 'Mike Cohn', 'want level': 10, 'status': 'not owned', 'done to read': False}
+{'id': 49, 'title': 'Extreme Programming Explained: Embrace Change', 'author': 'Kent Beck', 'want level': 10, 'status': 'not owned', 'done to read': False}
+{'id': 50, 'title': 'Programming Pearls (ACM Press)', 'author': 'Jon Bentley', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 51, 'title': 'Cracking the Coding Interview: 150 Programming Questions and Solutions', 'author': 'Gayle Laakmann McDowell', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 52, 'title': 'Thinking in Java, Fourth Edition', 'author': 'Bruce Eckel', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 53, 'title': 'Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)', 'author': 'Bruce A. Tate', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 54, 'title': 'C# in Depth', 'author': 'Jon Skeet', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 55, 'title': 'Testing Computer Software', 'author': 'Cem Kaner', 'want level': 10, 'status': 'not owned', 'done to read': False}
+{'id': 56, 'title': 'Ship it!: A Practical Guide to Successful Software Projects (Pragmatic Programmers)', 'author': 'Jared Richardson', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 57, 'title': 'Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison Wesley Signature)', 'author': 'Jez Humble', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 58, 'title': "Soft Skills: The software developer's life manual", 'author': 'John Sonmez', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 59, 'title': 'Code: The Hidden Language of Computer Hardware and Software', 'author': 'Charles Petzold', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 60, 'title': 'Godel, Escher, Bach: An Eternal Golden Braid', 'author': 'Douglas R. Hofstadter', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 61, 'title': 'The War of Art', 'author': 'Steven Pressfield', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 62, 'title': 'As a Man Thinketh', 'author': 'James Allen', 'want level': 10, 'status': 'not owned', 'done to read': False}
+{'id': 63, 'title': 'Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Powers to Succeed', 'author': 'Brian Tracy', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 64, 'title': 'How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life', 'author': 'Scott Adams', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 65, 'title': 'The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph', 'author': 'Ryan Holiday', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 66, 'title': 'Panzer Leader', 'author': 'Heinz Guaderian', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 67, 'title': 'Operation Barbarossa 2nd Panzergruppe in Russia June 21 1941', 'author': 'Heinz Guaderian', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 68, 'title': 'Sleep Smarter', 'author': 'Shawn Stevenson', 'want level': 8, 'status': 'not owned', 'done to read': False}
+{'id': 69, 'title': 'Find Your Why A Practical Guide for Discovering Purpose for You and Your Team', 'author': 'Simon Sinek', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 70, 'title': 'Man alone with himself', 'author': 'R. J. Nietzsche', 'want level': 8, 'status': 'owned', 'done to read': True}
+{'id': 71, 'title': 'The Personal MBA Master the Art of Business', 'author': 'Josh Kaufman', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 72, 'title': 'The Intelligent Investor The Definitive Book On Value Investing, Revised Edition', 'author': 'Benjamin Graham', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 73, 'title': 'Unshakeable Your Financial Freedom Playbook', 'author': 'Tony Robbins', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 74, 'title': 'Students Secrets Revealed', 'author': 'Dean Graziosi', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 75, 'title': 'The Four Pillars of Investing Lessons for Building a Winning Portfolio', 'author': 'William Bernstein', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 76, 'title': 'Speed Reading For Dummies', 'author': 'Richard Sutz', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 77, 'title': 'The H Factor of Personality Why Some People are Manipulative, Self Entitled, Materialistic, and Exploitive And Why It Matters for Everyone', 'author': 'Kibeom Lee', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 78, 'title': 'Built to Sell Creating a Business That Can Thrive Without You', 'author': 'John Warrillow', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 79, 'title': 'Rich Dads Guide to Investing What the Rich Invest in That the Poor and Middle Class Do Not', 'author': ' Robert T. Kiyosaki', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 80, 'title': 'Passive Income Stop Working   Start Living   Make money while you sleep', 'author': 'Ralph Waters', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 81, 'title': 'The Freelancers Bible Everything You Need to Know to Have the Career of Your Dreams   On Your Terms', 'author': 'Sara Horowitz', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 82, 'title': 'The Selfish Gene', 'author': 'Richard Dawkins', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 83, 'title': 'How to Analyze People   Dark Secrets to Analyze and Influence Anyone Using Body Language ', 'author': 'James Williams', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 84, 'title': 'No One Understands You and What to Do About It', 'author': 'Heidi Grant Halvorson', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 85, 'title': 'The Greatest Minds and Ideas of All Time', 'author': 'Will Durant', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 86, 'title': 'Purple Cow Transform Your Business by Being Remarkable', 'author': 'Seth Godin', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 87, 'title': 'A Night to Remember The Classic Bestselling Account of the Sinking of the Titanic', 'author': 'Walter Lord', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 88, 'title': 'Business Adventures Twelve Classic Tales from the World of Wall Street', 'author': 'John Brooks', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 89, 'title': 'Why We Buy The Science of Shopping  Updated and Revised for the Internet, the Global Consumer, and Beyond', 'author': 'Paco Underhill', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 90, 'title': 'Activate Your Brain How Understanding Your Brain Can Improve Your Work   and Your Life', 'author': 'Scott G. Halford', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 91, 'title': 'Listen out loud  a life in music  managing McCartney, Madonna, and Michael Jackson', 'author': 'Weisner', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 92, 'title': 'The Art of Creative Thinking How to Be Innovative and Develop Great Ideas', 'author': 'John Adair', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 93, 'title': 'Focus use different ways of seeing the world for success and influence', 'author': 'Heidi Grant Halvorson', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 94, 'title': 'Leadership Secrets of the Worlds Most Successful CEOs 100 Top Executives Reveal the Management Strategies That Made Their Companies Great', 'author': 'Eric Yaverbaum', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 95, 'title': 'Managing Oneself', 'author': 'Peter Ferdinand Drucker', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 96, 'title': 'The Richest Man in Babylon', 'author': 'George S. Clason', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 97, 'title': 'You Are a Badass How to Stop Doubting Your Greatness and Start Living an Awesome Life', 'author': 'Jen Sincero', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 98, 'title': 'The Art of War', 'author': 'Sun Tzu', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 99, 'title': 'Grit The Power of Passion and Perseverance', 'author': 'Angela Duckworth', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 100, 'title': 'Book Yourself Solid The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling', 'author': 'Michael Port', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 101, 'title': 'Tested Advertising Methods', 'author': 'John Caples', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 102, 'title': 'The Winner Effect The Neuroscience of Success and Failure', 'author': 'Ian H. Robertson', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 103, 'title': 'Creative Cash Flow Reporting Uncovering Sustainable Financial Performance', 'author': 'Charles W. Mulford', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 104, 'title': 'Rich Dads Increase Your Financial IQ Get Smarter with Your Money', 'author': 'Robert T. Kiyosaki', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 105, 'title': 'The Courage to be Disliked How to Change Your Life and Achieve Real Happiness ', 'author': 'Ichiro Kishimi Fumitake Koga', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 106, 'title': 'The Wealth Paradox Economic Prosperity and the Hardening of Attitudes', 'author': 'Frank Mols', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 107, 'title': 'The Financial Rules for New College Graduates Invest before Paying Off Debt and Other Tips Your Professors Didn’t Teach You', 'author': 'Michael C Taylor', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 108, 'title': 'The Millionaire Next Door The Surprising Secrets of Americas Wealthy', 'author': 'Thomas J. Stanley', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 109, 'title': 'The folly of fools  the logic of deceit and self-deception in human life', 'author': 'Trivers', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 110, 'title': 'Principles of Marketing', 'author': 'Philip T. Kotler', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 111, 'title': 'This Is Marketing You Can’t Be Seen Until You Learn to See', 'author': 'Seth Godin', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 112, 'title': 'The Splendid and the Vile', 'author': 'Erik Larson', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 113, 'title': 'The ANSI C Programming Language', 'author': 'Dennis M. Ritchie', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 114, 'title': 'The C++ Programming Language, 4th Edition', 'author': 'Stroustrup B.', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 115, 'title': 'Fluent Python', 'author': 'Luciano Ramalho', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 116, 'title': 'The Book on Tax Strategies for the Savvy Real Estate Investor Powerful techniques anyone can use to deduct more, invest smarter, and pay far less to the IRS', 'author': 'Amanda Han', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 117, 'title': 'The Book on Flipping Houses How to Buy, Rehab, and Resell Residential Properties', 'author': 'J. Scott', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 118, 'title': 'Disrupt You Master Personal Transformation, Seize Opportunity, and Thrive in the Era of Endless Innovation', 'author': 'Jay Samit', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 119, 'title': 'You Are a Badass at Making Money Master the Mindset of Wealth', 'author': 'Jen Sincero', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 120, 'title': 'Finish What You Start The Art of Following Through, Taking Action, Executing,  Self-Discipline', 'author': 'Peter Hollins', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 121, 'title': 'The Happiness Advantage The Seven Principles of Positive Psychology That Fuel Success and Performance at Work', 'author': 'Shawn Achor', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 122, 'title': 'I Will Teach You to Be Rich, Second Edition No Guilt. No Excuses. No BS. Just a 6-Week Program That Works', 'author': 'Ramit Sethi', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 123, 'title': 'The Social Skills Guidebook Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are', 'author': 'Chris MacLeod', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 124, 'title': 'The Power of Creativity (Book 1) Learning How to Build Lasting Habits, Face Your Fears and Change Your Life', 'author': 'Bryan Collins', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 125, 'title': 'Atomic Habits', 'author': 'James Clear', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 126, 'title': 'Midas Touch Why Some Entrepreneurs Get Rich-And Why Most Dont', 'author': 'Donald J. Trump', 'want level': 5, 'status': 'owned', 'done to read': False}
+{'id': 127, 'title': 'How to talk to anyone: 92 little tricks for big success in relationships', 'author': 'Leil Lowndes', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 128, 'title': 'Outliers: The Story of Success', 'author': 'Malcolm Gladwell', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 129, 'title': 'Do the Work: Overcome Resistance and Get Out of Your Own Way', 'author': 'Steven Pressfield', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 130, 'title': 'The Diary of Anne Frank', 'author': 'Frank Anne', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 131, 'title': 'MONEY Master the Game - 7 Simple Steps to Financial Freedom', 'author': 'Tony Robbins', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 132, 'title': 'Stock Investing For Dummies', 'author': 'Paul Mladjenovic', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 133, 'title': 'The Art of Public Speaking The Original Tool for Improving Public Oration', 'author': 'Dale Carnegie', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 134, 'title': 'Your Successful Real Estate Career', 'author': 'Kenneth W. Edwards', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 135, 'title': 'Building Big Profits in Real Estate: A Guide for The New Investor', 'author': 'Suzanne Caplan', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 136, 'title': 'Secure Your Financial Future Investing in Real Estate', 'author': 'Martin Stone', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 137, 'title': 'Awaken the Giant Within How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny', 'author': 'Tony Robbins', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 138, 'title': 'Civilization and Its Discontents', 'author': 'Freud Sigmund', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 139, 'title': 'Compelling People The Hidden Qualities That Make Us Influential', 'author': 'John Neffinger', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 140, 'title': 'Contagious Why Things Catch On', 'author': 'Berger Jonah', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 141, 'title': 'Eat the Yolks Discover Paleo, fight food lies, and reclaim your health', 'author': 'Wolfe', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 142, 'title': 'King of Capital The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone', 'author': 'David Carey', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 143, 'title': 'On the Heights of Despair', 'author': 'E. M. Cioran', 'want level': 10, 'status': 'owned', 'done to read': True}
+{'id': 144, 'title': 'Red notice a true story of high finance, murder, and one mans fight for justice', 'author': 'Bill Browder', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 145, 'title': 'The End of Faith Religion, Terror, and the Future of Reason', 'author': 'Sam Harris', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 146, 'title': 'The Moral Landscape How Science Can Determine Human Values', 'author': 'Sam Harris', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 147, 'title': 'The trouble with being born', 'author': 'E. M. Cioran', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 148, 'title': 'The Social Media Marketing Book', 'author': 'Dan Zarrella', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 149, 'title': 'Sell with a Story How to Capture Attention, Build Trust, and Close the Sale', 'author': 'Paul Smith', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 150, 'title': 'Smart Pricing How Google, Priceline, and Leading Businesses Use Pricing Innovation for Profitability', 'author': 'Jagmohan Raju', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 151, 'title': 'Assassins Creed The Secret Crusade', 'author': 'Bowden Oliver', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 152, 'title': 'Assassins Creed Revelations', 'author': 'Oliver Bowden', 'want level': 5, 'status': 'owned', 'done to read': False}
+{'id': 153, 'title': 'Guns, Germs, and Steel The Fates of Human Societies', 'author': 'Jared M. Diamond', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 154, 'title': 'Long Walk to Freedom The Autobiography of Nelson Mandela', 'author': 'Nelson Mandela', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 155, 'title': 'The Audacity of Hope. Thoughts on Reclaiming the American Dream', 'author': 'Barack Obama', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 156, 'title': 'The Sales Bible The Ultimate Sales Resource, Revised Edition', 'author': 'Jeffrey Gitomer', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 157, 'title': 'Building Structures Illustrated Patterns, Systems, and Design', 'author': 'Francis D. K. Ching', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 158, 'title': 'R for Data Science Import, Tidy, Transform, Visualize, and Model Data', 'author': 'Hadley Wickham', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 159, 'title': 'Regular Expression Pocket Reference Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET', 'author': 'Tony Stubblebine', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 160, 'title': 'Learn Rails 5.2 Accelerated Web Development with Ruby on Rails', 'author': 'Wintermeyer', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 161, 'title': 'Building Microservices', 'author': 'Sam Newman', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 162, 'title': 'Superintelligence Paths, Dangers, Strategies', 'author': 'Nick Bostrom', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 163, 'title': 'Blake Masters Zero to One Notes on Startups, or How to Build the Future Crown Business', 'author': 'Peter Thiel', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 164, 'title': 'Unlimited Memory How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive', 'author': 'Kevin Horsley', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 165, 'title': 'How to Sleep Well', 'author': 'Neil Stanley', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 166, 'title': 'The god delusion', 'author': 'Richard Dawkins', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 167, 'title': 'How to Change Your Mind What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence', 'author': 'Michael Pollan', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 168, 'title': 'Notes from Underground', 'author': 'Fyodor Dostoyevsky', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 169, 'title': 'It Doesn’t Have to Be Crazy at Work', 'author': 'Jason Fried', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 170, 'title': 'Fiasco The Inside Story of a Wall Street Trader', 'author': 'Frank Partnoy', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 171, 'title': 'The Warren Buffett Way', 'author': 'Robert G. Hagstrom', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 172, 'title': 'The Emotionally Intelligent Manager How to Develop and Use the Four Key Emotional Skills of Leadership', 'author': 'David R. Caruso', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 173, 'title': 'Negotiating For Dummies', 'author': 'Michael C. Donaldson', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 174, 'title': 'Presidents of War', 'author': 'Michael Beschloss', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 175, 'title': 'Mastering the Market Cycle: Getting the Odds on Your Side', 'author': 'Howard Marks', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 176, 'title': 'The Examined Life: How We Lose and Find Ourselves', 'author': 'Stephen Grosz', 'want level': 10, 'status': 'not owned', 'done to read': False}
+{'id': 177, 'title': 'Deep learning adaptive computation and machine learning', 'author': 'Bengio', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 178, 'title': 'Machine Learning with Python Cookbook Practical Solutions from Preprocessing to Deep Learning', 'author': 'Chris Albon', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 179, 'title': 'Games People Play The Psychology of Human Relationships', 'author': 'Eric Berne', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 180, 'title': 'Dreamland The True Tale of Americas Opiate Epidemic', 'author': 'Sam Quinones', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 181, 'title': 'Game theory through examples', 'author': 'Prisner', 'want level': 5, 'status': 'owned', 'done to read': False}
+{'id': 183, 'title': 'Playing for Real A Text on Game Theory', 'author': 'Ken Binmore', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 184, 'title': 'Your Creative Mind How to Disrupt Your Thinking, Abandon Your Comfort Zone, and Develop Bold New Strategies', 'author': 'Scott Cochrane', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 185, 'title': 'The Gift of Fear', 'author': 'Gavin de Becker', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 186, 'title': 'Deep Learning A Practitioners Approach', 'author': 'J. Patterson, A. Gibson', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 187, 'title': 'Built to last', 'author': 'Jim Collins', 'want level': 10, 'status': 'not owned', 'done to read': False}
+{'id': 188, 'title': 'Memos from the Chairman', 'author': 'Alan C. Greenberg', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 189, 'title': 'Data-Driven Marketing: The 15 Metrics Everyone in Marketing Should Know', 'author': 'Mark Jeffrey', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 190, 'title': 'Software Development From A to Z: A Deep Dive into all the Roles Involved in the Creation of Software', 'author': 'Olga Filipova', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 191, 'title': 'The algorithm design manual', 'author': 'Steven Skiena', 'want level': 5, 'status': 'owned', 'done to read': False}
+{'id': 192, 'title': 'Think: Why You Should Question Everything', 'author': 'Guy P. Harrison', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 193, 'title': 'Maximum Influence: The 12 Universal Laws of Power', 'author': 'Kurt W. Mortensen', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 194, 'title': 'No Excuses!: The Power of Self-Discipline', 'author': 'Brian Tracy', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 195, 'title': 'Breathe: The Simple, Revolutionary 14 Day Program to Improve Your Mental and Physical Health', 'author': 'Belisa Vranich', 'want level': 9, 'status': 'owned', 'done to read': False}
+{'id': 196, 'title': 'The Culture Code: The Secrets of Highly Successful Groups', 'author': 'Daniel Coyle', 'want level': 8, 'status': 'owned', 'done to read': False}
+{'id': 197, 'title': 'We Have a Deal: How to Negotiate with Intelligence, Flexibility and Power', 'author': 'Natalie Reynolds', 'want level': 7, 'status': 'owned', 'done to read': False}
+{'id': 198, 'title': 'Get Momentum How to Start When You’re Stuck', 'author': 'Jason W. Womack', 'want level': 10, 'done to read': False}
+{'id': 199, 'title': 'Programming Rust Fast, Safe Systems Development', 'author': 'Jim Blandy', 'want level': 9, 'done to read': False}
+{'id': 200, 'title': 'The Go Programming Language', 'author': 'Alan A. A', 'want level': 9, 'done to read': False}
+{'id': 201, 'title': 'Training Your Brain For Dummies', 'author': 'Tracy Packiam Alloway', 'want level': 10, 'done to read': False}
+{'id': 202, 'title': 'Trump Strategies for Real Estate Billionaire Lessons for the Small Investor', 'author': 'George Ross', 'want level': 6, 'done to read': False}
+{'id': 203, 'title': 'Becoming a Better Programmer A Handbook for People Who Care About Code', 'author': 'Pete Goodliffe', 'want level': 9, 'done to read': False}
+{'id': 204, 'title': 'Technology Strategy Patterns Architecture as Strategy', 'author': 'Eben Hewitt', 'want level': 10, 'done to read': False}
+{'id': 205, 'title': 'Test-Driven Development with Python Obey the Testing Goat Using Django, Selenium, and JavaScript', 'author': 'Harry J. W. Percival', 'want level': 10, 'done to read': False}
+{'id': 206, 'title': 'Flask Web Development Developing Web Applications with Python', 'author': 'Miguel Grinberg', 'want level': 8, 'done to read': False}
+{'id': 207, 'title': 'Coding Theory Algorithms, Architectures, and Applications', 'author': 'Andre Neubauer', 'want level': 8, 'done to read': False}
+{'id': 208, 'title': 'The Performance of Open Source Applications', 'author': 'Tavish Armstrong', 'want level': 10, 'done to read': False}
+{'id': 209, 'title': 'The Architecture Of Open Source Applications, Volume II', 'author': 'Amy Brown', 'want level': 10, 'done to read': False}
+{'id': 210, 'title': 'The Power of Habit Why We Do What We Do in Life and Business', 'author': 'Charles Duhigg', 'want level': 10, 'done to read': False}
+{'id': 211, 'title': 'The Architecture Of Open Source Applications', 'author': 'Amy Brown', 'want level': 10, 'done to read': False}
+{'id': 212, 'title': 'Investing in International Real Estate for Dummies', 'author': 'TaTk Dummies', 'want level': 10, 'done to read': False}
+{'id': 213, 'title': 'The Millionaire Real Estate Agent Its Not About the Money...Its About Being the Best You Can Be', 'author': 'Gary Keller', 'want level': 9, 'done to read': False}
+{'id': 214, 'title': 'Head First Object-Oriented Analysis and Design', 'author': 'Brett D. McLaughlin', 'want level': 9, 'done to read': False}
+{'id': 215, 'title': 'The Heart of the Deal How to Invest and Negotiate like a Real Estate Mogul', 'author': 'Anthony Lolli', 'want level': 8, 'done to read': False}
+{'id': 216, 'title': 'The Upstarts How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World', 'author': 'Brad Stone', 'want level': 10, 'done to read': False}
+{'id': 217, 'title': 'Bring Your Whole Self to Work How Vulnerability Unlocks Creativity, Connection, and Performance', 'author': 'Mike Robbins', 'want level': 8, 'done to read': False}
+{'id': 218, 'title': 'Head First Software Development', 'author': 'Dan Pilone', 'want level': 9, 'done to read': False}
+{'id': 219, 'title': 'Designing Web APIs Building APIs That Developers Love', 'author': 'Brenda Jin Saurabh Sahni Amir Shevat', 'want level': 9, 'done to read': False}
+{'id': 220, 'title': 'Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems', 'author': ' Martin Kleppmann', 'want level': 10, 'done to read': False}
+{'id': 221, 'title': 'Using Docker Developing and Deploying Software with Containers', 'author': 'Adrian Mouat', 'want level': 8, 'done to read': False}
+{'id': 222, 'title': 'Deep Learning with Python', 'author': 'Francois Chollet', 'want level': 10, 'done to read': False}
+{'id': 223, 'title': 'Deep Learning from Scratch Building with Python from First Principles', 'author': 'Seth Weidman', 'want level': 9, 'done to read': False}
+{'id': 224, 'title': 'Hands-On Unsupervised Learning Using Python How to Build Applied Machine Learning Solutions from Unlabeled Data', 'author': 'Ankur A Patel', 'want level': 9, 'done to read': False}
+{'id': 225, 'title': 'Lean UX Designing Great Products with Agile Teams', 'author': 'Jeff Gothelf', 'want level': 10, 'done to read': False}
+{'id': 226, 'title': 'Data Science from Scratch First Principles with Python', 'author': 'Joel Grus', 'want level': 9, 'done to read': False}
+{'id': 227, 'title': 'Data Analytics Practical Guide to Leveraging the Power of Algorithms, Data Science, Data Mining, Statistics, Big Data, and Predictive Analysis to Improve Business, Work, and Life', 'author': 'Arthur Zhang ', 'want level': 9, 'done to read': False}
+{'id': 228, 'title': 'Business Analysis Methodology Book Business Analysts Guide to Requirements Analysis, Lean UX Design and Project Management at Lean Enterprises and Lean Startups', 'author': 'Yayici', 'want level': 10, 'done to read': False}
+{'id': 229, 'title': 'The Non-Designers Design Book', 'author': 'Robin Williams', 'want level': 10, 'done to read': False}
+{'id': 230, 'title': 'UX Fundamentals for Non-UX Professionals User Experience Principles for Managers, Writers, Designers, and Developers', 'author': 'Edward Stull', 'want level': 10, 'done to read': False}
+{'id': 231, 'title': 'The Design of Everyday Things - Revised and Expanded Edition', 'author': 'Don Norman', 'want level': 8, 'done to read': False}
+{'id': 232, 'title': 'Implementation Patterns', 'author': 'Kent Beck', 'want level': 10, 'done to read': False}
+{'id': 233, 'title': '501 Web site secrets unleash the power of Google, Amazon, eBay, and more', 'author': 'Michael Miller', 'want level': 8, 'done to read': False}
+{'id': 234, 'title': 'Passive income  develop a passive income empire  complete beginners guide to building riches through multiple streams', 'author': 'Wolf, Simon', 'want level': 10, 'done to read': False}
+{'id': 235, 'title': 'Passive Income 30 Strategies and Ideas To Start an Online Business and Acquiring Financial Freedom', 'author': 'Richard Gadson', 'want level': 9, 'done to read': False}
+{'id': 236, 'title': 'Smarter Faster Better The Secrets of Being Productive in Life and Business', 'author': 'Charles Duhigg', 'want level': 10, 'done to read': False}
+{'id': 237, 'title': 'Steve Jobs', 'author': 'Isaacson Walter', 'want level': 7, 'done to read': False}
+{'id': 238, 'title': 'The Leadership Training Activity Book 50 Exercises for Building Effective Leaders', 'author': 'Lois B. Hart', 'want level': 9, 'done to read': False}
+{'id': 239, 'title': 'The Real Book of Real Estate Real Experts. Real Stories. Real Life.', 'author': 'Robert T. Kiyosaki', 'want level': 9, 'done to read': False}
+{'id': 240, 'title': 'A Passion for Mathematics - Numbers, Puzzles, Madness, Religion, and the Quest for Reality', 'author': 'Clifford A. Pickover', 'want level': 6, 'done to read': False}
+{'id': 241, 'title': 'Getting Started with TypeScript  Includes Introduction to Angular', 'author': 'Thomas Claudius Huber', 'want level': 10, 'done to read': False}
+{'id': 242, 'title': 'Logic made easy how to know when language deceives you', 'author': 'Deborah J. Bennett', 'want level': 10, 'done to read': False}
+{'id': 243, 'title': 'The temptation to exist', 'author': 'Emil Cioran', 'want level': 10, 'done to read': False}
+{'id': 244, 'title': 'The Psychology Book', 'author': 'DK', 'want level': 8, 'done to read': False}
+{'id': 245, 'title': 'The classical music book', 'author': 'DK', 'want level': 9, 'done to read': False}

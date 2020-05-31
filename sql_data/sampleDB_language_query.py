@@ -1,7 +1,9 @@
 from db_operations import db_operations
 from sampleDB.sampleDB import sampleDB
 
-PATH = "/magnus/sql_data/"
+DATA_FILE_PATH = "\magnus\sql_data\sampleDB\saved_data\programming_languages_classification.data"
+JSON_DATA_FILE_PATH = "\magnus\sql_data\sampleDB\saved_data\programming_languages_classification_json.data"
+SAVE_ACTIVITY_FILE_PATH = "\magnus\sql_data\sampleDB"
 
 db_actions = db_operations()
 
@@ -41,8 +43,8 @@ db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Go")
 print("\nKotlin projects")
 db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Kotlin")
 
-db_actions.insert_table_in_file("", sampleDB)
+db_actions.insert_table_in_file(DATA_FILE_PATH, sampleDB)
 
-db_actions.insert_data_in_file("", sampleDB)
+db_actions.insert_data_in_file(JSON_DATA_FILE_PATH, sampleDB)
 
-db_actions.save_activity("", "sampleDB")
+db_actions.save_activity(SAVE_ACTIVITY_FILE_PATH, "sampleDB")
