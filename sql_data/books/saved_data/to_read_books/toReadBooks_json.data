@@ -94,7 +94,7 @@
 {'id': 95, 'title': 'Managing Oneself', 'author': 'Peter Ferdinand Drucker', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 96, 'title': 'The Richest Man in Babylon', 'author': 'George S. Clason', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 97, 'title': 'You Are a Badass How to Stop Doubting Your Greatness and Start Living an Awesome Life', 'author': 'Jen Sincero', 'want level': 10, 'status': 'owned', 'done to read': False}
-{'id': 98, 'title': 'The Art of War', 'author': 'Sun Tzu', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 98, 'title': 'The Art of War', 'author': 'Sun Tzu', 'want level': 10, 'status': 'owned', 'done to read': True}
 {'id': 99, 'title': 'Grit The Power of Passion and Perseverance', 'author': 'Angela Duckworth', 'want level': 8, 'status': 'owned', 'done to read': False}
 {'id': 100, 'title': 'Book Yourself Solid The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling', 'author': 'Michael Port', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 101, 'title': 'Tested Advertising Methods', 'author': 'John Caples', 'want level': 10, 'status': 'owned', 'done to read': False}

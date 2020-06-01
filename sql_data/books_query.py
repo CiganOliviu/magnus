@@ -1,9 +1,9 @@
 from db_operations import db_operations
 from books.books import books
 
-DATA_FILE_PATH = "\magnus\sql_data\\books\saved_data\\books\\books.data"
-JSON_DATA_FILE_PATH = "\magnus\sql_data\\books\saved_data\\books\\books_json.data"
-SAVE_ACTIVITY_FILE_PATH = "\magnus\sql_data\\books\logfiles\\"
+DATA_FILE_PATH = "\\magnus\sql_data\\books\saved_data\\books\\books.data"
+JSON_DATA_FILE_PATH = "\\magnus\sql_data\\books\saved_data\\books\\books_json.data"
+SAVE_ACTIVITY_FILE_PATH = "\\magnus\sql_data\\books\logfiles\\"
 
 db_actions = db_operations()
 

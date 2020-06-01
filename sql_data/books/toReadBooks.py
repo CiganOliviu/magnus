@@ -107,7 +107,7 @@ class toReadBooks():
 		{id: 95, book_title: "Managing Oneself", author: "Peter Ferdinand Drucker", want_level: 10, status: "owned", done_to_read: False},
 		{id: 96, book_title: "The Richest Man in Babylon", author: "George S. Clason", want_level: 10, status: "owned", done_to_read: False},
 		{id: 97, book_title: "You Are a Badass How to Stop Doubting Your Greatness and Start Living an Awesome Life", author: "Jen Sincero", want_level: 10, status: "owned", done_to_read: False},
-		{id: 98, book_title: "The Art of War", author: "Sun Tzu", want_level: 10, status: "owned", done_to_read: False},
+		{id: 98, book_title: "The Art of War", author: "Sun Tzu", want_level: 10, status: "owned", done_to_read: True},
 		{id: 99, book_title: "Grit The Power of Passion and Perseverance", author: "Angela Duckworth", want_level: 8, status: "owned", done_to_read: False},
 		{id: 100, book_title: "Book Yourself Solid The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling", author: "Michael Port", want_level: 10, status: "owned", done_to_read: False},
 		{id: 101, book_title: "Tested Advertising Methods", author: "John Caples", want_level: 10, status: "owned", done_to_read: False},
