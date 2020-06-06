@@ -254,5 +254,6 @@ class toReadBooks():
 		{id: 243, book_title: "The temptation to exist", author: "Emil Cioran", want_level: 10, done_to_read: False},
 		{id: 244, book_title: "The Psychology Book", author: "DK", want_level: 8, done_to_read: False},
 		{id: 245, book_title: "The classical music book", author: "DK", want_level: 9, done_to_read: False},
-		# {id: 244, book_title: , author: , want_level, done_to_read: },
+    {id: 246, book_title: "Don't make me think: revisited a common sense approach to Web usability", author: "Krug", want_level: 10, done_to_read: False},
+		# {id: 247, book_title: , author: , want_level, done_to_read: },
 	]
