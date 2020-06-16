@@ -242,3 +242,6 @@
 {'id': 244, 'title': 'The Psychology Book', 'author': 'DK', 'want level': 8, 'done to read': False}
 {'id': 245, 'title': 'The classical music book', 'author': 'DK', 'want level': 9, 'done to read': False}
 {'id': 246, 'title': "Don't make me think: revisited a common sense approach to Web usability", 'author': 'Krug', 'want level': 10, 'done to read': False}
+{'id': 248, 'title': 'Atomic Habits', 'author': 'James Clear', 'want level': 10, 'done to read': False}
+{'id': 249, 'title': 'Thinking fast and slow', 'author': 'Daniel Kahneman', 'want level': 9, 'done to read': False}
+{'id': 250, 'title': 'Unfuk Yourself Get out of your head and into your life', 'author': 'Gary John Bishop', 'want level': 10, 'done to read': False}

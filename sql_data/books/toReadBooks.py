@@ -255,5 +255,8 @@ class toReadBooks():
 		{id: 244, book_title: "The Psychology Book", author: "DK", want_level: 8, done_to_read: False},
 		{id: 245, book_title: "The classical music book", author: "DK", want_level: 9, done_to_read: False},
     {id: 246, book_title: "Don't make me think: revisited a common sense approach to Web usability", author: "Krug", want_level: 10, done_to_read: False},
-		# {id: 247, book_title: , author: , want_level, done_to_read: },
+    {id: 248, book_title: "Atomic Habits", author: "James Clear", want_level: 10, done_to_read: False},
+    {id: 249, book_title: "Thinking fast and slow", author: "Daniel Kahneman", want_level: 9, done_to_read: False},
+    {id: 250, book_title: "Unfuk Yourself Get out of your head and into your life", author: "Gary John Bishop", want_level: 10, done_to_read: False},
+    # {id: 251, book_title: , author: , want_level, done_to_read: },
 	]
