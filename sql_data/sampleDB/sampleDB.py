@@ -59,4 +59,6 @@ class sampleDB():
 		{id: 35, name: "kotlin-tdd", programming_language: "Kotlin", license: "MIT", status: "stable"},
 
     {id: 36, name: "hello-world", programming_language: "Assembly", license: "MIT", status: "stable"},
+
+    {id: 37, name: "css-strike", programming_language: "CSS", license: "MIT", status: "unstable"},
 	]

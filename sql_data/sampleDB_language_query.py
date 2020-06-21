@@ -43,6 +43,9 @@ db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Go")
 print("\nKotlin projects")
 db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Kotlin")
 
+print("\nCSS projects")
+db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "CSS")
+
 db_actions.insert_table_in_file(DATA_FILE_PATH, sampleDB)
 
 db_actions.insert_data_in_file(JSON_DATA_FILE_PATH, sampleDB)
