@@ -16,4 +16,5 @@ class CurrentReadingCheck():
 		{id: 5, book_title: "It doesen't have to be crazy at work", author: "Jason Fried", current_page: 0},
 		{id: 6, book_title: "How to sleep well", author: "Neil Stanley", current_page: 0},
 		{id: 7, book_title: "The trouble with being born", author: "Emil Cioran", current_page: 0},
+    {id: 8, book_title: "451 Fahrenhein", author: "Ray Bradbury", current_page: 87},
 	]
