@@ -227,7 +227,7 @@
 {'id': 229, 'title': 'The Non-Designers Design Book', 'author': 'Robin Williams', 'want level': 10, 'done to read': False}
 {'id': 230, 'title': 'UX Fundamentals for Non-UX Professionals User Experience Principles for Managers, Writers, Designers, and Developers', 'author': 'Edward Stull', 'want level': 10, 'done to read': False}
 {'id': 231, 'title': 'The Design of Everyday Things - Revised and Expanded Edition', 'author': 'Don Norman', 'want level': 8, 'done to read': False}
-{'id': 232, 'title': 'Implementation Patterns', 'author': 'Kent Beck', 'want level': 10, 'done to read': False}
+{'id': 232, 'title': 'Implementation Patterns', 'author': 'Kent Beck', 'want level': 10, 'done to read': True}
 {'id': 233, 'title': '501 Web site secrets unleash the power of Google, Amazon, eBay, and more', 'author': 'Michael Miller', 'want level': 8, 'done to read': False}
 {'id': 234, 'title': 'Passive income  develop a passive income empire  complete beginners guide to building riches through multiple streams', 'author': 'Wolf, Simon', 'want level': 10, 'done to read': False}
 {'id': 235, 'title': 'Passive Income 30 Strategies and Ideas To Start an Online Business and Acquiring Financial Freedom', 'author': 'Richard Gadson', 'want level': 9, 'done to read': False}

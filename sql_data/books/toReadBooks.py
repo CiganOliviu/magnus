@@ -240,7 +240,7 @@ class toReadBooks():
 		{id: 229, book_title: "The Non-Designers Design Book", author: "Robin Williams", want_level: 10, done_to_read: False},
 		{id: 230, book_title: "UX Fundamentals for Non-UX Professionals User Experience Principles for Managers, Writers, Designers, and Developers", author: "Edward Stull", want_level: 10, done_to_read: False},
 		{id: 231, book_title: "The Design of Everyday Things - Revised and Expanded Edition", author: "Don Norman", want_level: 8, done_to_read: False},
-		{id: 232, book_title: "Implementation Patterns", author: "Kent Beck", want_level: 10, done_to_read: False},
+		{id: 232, book_title: "Implementation Patterns", author: "Kent Beck", want_level: 10, done_to_read: True},
 		{id: 233, book_title: "501 Web site secrets unleash the power of Google, Amazon, eBay, and more", author: "Michael Miller", want_level: 8, done_to_read: False},
 		{id: 234, book_title: "Passive income  develop a passive income empire  complete beginners guide to building riches through multiple streams", author: "Wolf, Simon", want_level: 10, done_to_read: False},
 		{id: 235, book_title: "Passive Income 30 Strategies and Ideas To Start an Online Business and Acquiring Financial Freedom", author: "Richard Gadson", want_level: 9, done_to_read: False},

@@ -69,3 +69,4 @@
 {'id': 69, 'title': 'The Clean Coder', 'author': 'Robert C. Martin'}
 {'id': 70, 'title': 'On the heights of despair', 'author': 'Emil Cioran'}
 {'id': 71, 'title': 'The art of war', 'author': 'Sun Tzu'}
+{'id': 72, 'title': 'Implementation Patterns', 'author': 'Kent Beck'}

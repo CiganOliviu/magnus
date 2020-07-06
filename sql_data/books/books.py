@@ -78,5 +78,6 @@ class books():
 		{id: 68, book_title: "Man alone with himself", author: "R. J. Nietzsche"},
 		{id: 69, book_title: "The Clean Coder", author: "Robert C. Martin"},
 		{id: 70, book_title: "On the heights of despair", author: "Emil Cioran"}, 
-		{id: 71, book_title: "The art of war", author: "Sun Tzu"}, 
+		{id: 71, book_title: "The art of war", author: "Sun Tzu"},
+    {id: 72, book_title: "Implementation Patterns", author: "Kent Beck"}, 
 	]
