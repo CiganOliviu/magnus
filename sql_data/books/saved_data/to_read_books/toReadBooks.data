@@ -314,7 +314,7 @@
 | 106 | The Wealth Paradox Economic Prosperity and the Hardening of Attitudes | Frank Mols | 10 | owned | False |
 ----------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| 107 | The Financial Rules for New College Graduates Invest before Paying Off Debt and Other Tips Your Professors Didn’t Teach You | Michael C Taylor | 10 | owned | False |
+| 107 | The Financial Rules for New College Graduates Invest before Paying Off Debt and Other Tips Your Professors Didnâ€™t Teach You | Michael C Taylor | 10 | owned | False |
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------
 | 108 | The Millionaire Next Door The Surprising Secrets of Americas Wealthy | Thomas J. Stanley | 10 | owned | False |
@@ -326,7 +326,7 @@
 | 110 | Principles of Marketing | Philip T. Kotler | 7 | owned | False |
 -----------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
-| 111 | This Is Marketing You Can’t Be Seen Until You Learn to See | Seth Godin | 6 | owned | False |
+| 111 | This Is Marketing You Canâ€™t Be Seen Until You Learn to See | Seth Godin | 6 | owned | False |
 ----------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------
 | 112 | The Splendid and the Vile | Erik Larson | 9 | owned | False |
@@ -500,7 +500,7 @@
 | 168 | Notes from Underground | Fyodor Dostoyevsky | 10 | owned | False |
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------------
-| 169 | It Doesn’t Have to Be Crazy at Work | Jason Fried | 10 | owned | False |
+| 169 | It Doesnâ€™t Have to Be Crazy at Work | Jason Fried | 10 | owned | False |
 -------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 | 170 | Fiasco The Inside Story of a Wall Street Trader | Frank Partnoy | 10 | owned | False |
@@ -584,7 +584,7 @@
 | 197 | We Have a Deal: How to Negotiate with Intelligence, Flexibility and Power | Natalie Reynolds | 7 | owned | False |
 -------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------
-| 198 | Get Momentum How to Start When You’re Stuck | Jason W. Womack | 10 | False |
+| 198 | Get Momentum How to Start When Youâ€™re Stuck | Jason W. Womack | 10 | False |
 -----------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------
 | 199 | Programming Rust Fast, Safe Systems Development | Jim Blandy | 9 | False |
@@ -749,8 +749,17 @@
 | 253 | Hans Fallada | Every man dies alone | 10 | False |
 ---------------------------------------------------------
 -------------------------------------------------------------------------------------
-| 254 | The Secret Diary of Hendrik Groen, 83¼ Years Old | Hendrik Groen | 7 | False |
+| 254 | The Secret Diary of Hendrik Groen, 83Â¼ Years Old | Hendrik Groen | 7 | False |
 -------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 | 255 | Zilele si noptile unui student intarziat | Gib Mihaescu | 6 | False |
 ----------------------------------------------------------------------------
+---------------------------------------------------------
+| 256 | Every man dies alone | Hans Fallada | 10 | False |
+---------------------------------------------------------
+--------------------------------------------------------------
+| 257 | God Explained in a Taxi Ride | Paul Arden | 9 | False |
+--------------------------------------------------------------
+----------------------------------------------------
+| 258 | Damn good advice | George Lois | 10 | False |
+----------------------------------------------------

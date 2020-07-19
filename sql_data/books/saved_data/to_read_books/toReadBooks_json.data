@@ -103,11 +103,11 @@
 {'id': 104, 'title': 'Rich Dads Increase Your Financial IQ Get Smarter with Your Money', 'author': 'Robert T. Kiyosaki', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 105, 'title': 'The Courage to be Disliked How to Change Your Life and Achieve Real Happiness ', 'author': 'Ichiro Kishimi Fumitake Koga', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 106, 'title': 'The Wealth Paradox Economic Prosperity and the Hardening of Attitudes', 'author': 'Frank Mols', 'want level': 10, 'status': 'owned', 'done to read': False}
-{'id': 107, 'title': 'The Financial Rules for New College Graduates Invest before Paying Off Debt and Other Tips Your Professors Didn’t Teach You', 'author': 'Michael C Taylor', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 107, 'title': 'The Financial Rules for New College Graduates Invest before Paying Off Debt and Other Tips Your Professors Didnâ€™t Teach You', 'author': 'Michael C Taylor', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 108, 'title': 'The Millionaire Next Door The Surprising Secrets of Americas Wealthy', 'author': 'Thomas J. Stanley', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 109, 'title': 'The folly of fools  the logic of deceit and self-deception in human life', 'author': 'Trivers', 'want level': 6, 'status': 'owned', 'done to read': False}
 {'id': 110, 'title': 'Principles of Marketing', 'author': 'Philip T. Kotler', 'want level': 7, 'status': 'owned', 'done to read': False}
-{'id': 111, 'title': 'This Is Marketing You Can’t Be Seen Until You Learn to See', 'author': 'Seth Godin', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 111, 'title': 'This Is Marketing You Canâ€™t Be Seen Until You Learn to See', 'author': 'Seth Godin', 'want level': 6, 'status': 'owned', 'done to read': False}
 {'id': 112, 'title': 'The Splendid and the Vile', 'author': 'Erik Larson', 'want level': 9, 'status': 'owned', 'done to read': False}
 {'id': 113, 'title': 'The ANSI C Programming Language', 'author': 'Dennis M. Ritchie', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 114, 'title': 'The C++ Programming Language, 4th Edition', 'author': 'Stroustrup B.', 'want level': 9, 'status': 'owned', 'done to read': False}
@@ -165,7 +165,7 @@
 {'id': 166, 'title': 'The god delusion', 'author': 'Richard Dawkins', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 167, 'title': 'How to Change Your Mind What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence', 'author': 'Michael Pollan', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 168, 'title': 'Notes from Underground', 'author': 'Fyodor Dostoyevsky', 'want level': 10, 'status': 'owned', 'done to read': False}
-{'id': 169, 'title': 'It Doesn’t Have to Be Crazy at Work', 'author': 'Jason Fried', 'want level': 10, 'status': 'owned', 'done to read': False}
+{'id': 169, 'title': 'It Doesnâ€™t Have to Be Crazy at Work', 'author': 'Jason Fried', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 170, 'title': 'Fiasco The Inside Story of a Wall Street Trader', 'author': 'Frank Partnoy', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 171, 'title': 'The Warren Buffett Way', 'author': 'Robert G. Hagstrom', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 172, 'title': 'The Emotionally Intelligent Manager How to Develop and Use the Four Key Emotional Skills of Leadership', 'author': 'David R. Caruso', 'want level': 10, 'status': 'owned', 'done to read': False}
@@ -193,7 +193,7 @@
 {'id': 195, 'title': 'Breathe: The Simple, Revolutionary 14 Day Program to Improve Your Mental and Physical Health', 'author': 'Belisa Vranich', 'want level': 9, 'status': 'owned', 'done to read': False}
 {'id': 196, 'title': 'The Culture Code: The Secrets of Highly Successful Groups', 'author': 'Daniel Coyle', 'want level': 8, 'status': 'owned', 'done to read': False}
 {'id': 197, 'title': 'We Have a Deal: How to Negotiate with Intelligence, Flexibility and Power', 'author': 'Natalie Reynolds', 'want level': 7, 'status': 'owned', 'done to read': False}
-{'id': 198, 'title': 'Get Momentum How to Start When You’re Stuck', 'author': 'Jason W. Womack', 'want level': 10, 'done to read': False}
+{'id': 198, 'title': 'Get Momentum How to Start When Youâ€™re Stuck', 'author': 'Jason W. Womack', 'want level': 10, 'done to read': False}
 {'id': 199, 'title': 'Programming Rust Fast, Safe Systems Development', 'author': 'Jim Blandy', 'want level': 9, 'done to read': False}
 {'id': 200, 'title': 'The Go Programming Language', 'author': 'Alan A. A', 'want level': 9, 'done to read': False}
 {'id': 201, 'title': 'Training Your Brain For Dummies', 'author': 'Tracy Packiam Alloway', 'want level': 10, 'done to read': False}
@@ -248,5 +248,8 @@
 {'id': 251, 'title': 'Fahrenheit 451', 'author': 'Ray Bradbury', 'want level': 10, 'done to read': False}
 {'id': 252, 'title': 'Samurai Raising', 'author': 'Pamela S. Turner', 'want level': 8, 'done to read': False}
 {'id': 253, 'title': 'Hans Fallada', 'author': 'Every man dies alone', 'want level': 10, 'done to read': False}
-{'id': 254, 'title': 'The Secret Diary of Hendrik Groen, 83¼ Years Old', 'author': 'Hendrik Groen', 'want level': 7, 'done to read': False}
+{'id': 254, 'title': 'The Secret Diary of Hendrik Groen, 83Â¼ Years Old', 'author': 'Hendrik Groen', 'want level': 7, 'done to read': False}
 {'id': 255, 'title': 'Zilele si noptile unui student intarziat', 'author': 'Gib Mihaescu', 'want level': 6, 'done to read': False}
+{'id': 256, 'title': 'Every man dies alone', 'author': 'Hans Fallada', 'want level': 10, 'done to read': False}
+{'id': 257, 'title': 'God Explained in a Taxi Ride', 'author': 'Paul Arden', 'want level': 9, 'done to read': False}
+{'id': 258, 'title': 'Damn good advice', 'author': 'George Lois', 'want level': 10, 'done to read': False}
