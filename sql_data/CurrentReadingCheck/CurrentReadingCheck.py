@@ -14,7 +14,7 @@ class CurrentReadingCheck():
 		{id: 3, book_title: "Lean UX", author: "Jeff Gothelf", current_page: 0},
 		{id: 4, book_title: "It doesen't have to be crazy at work", author: "Jason Fried", current_page: 0},
 		{id: 5, book_title: "How to sleep well", author: "Neil Stanley", current_page: 0},
-		{id: 6, book_title: "The trouble with being born", author: "Emil Cioran", current_page: 19},
+		{id: 6, book_title: "The trouble with being born", author: "Emil Cioran", current_page: 20},
 		{id: 7, book_title: "Every man dies alone", author: "Hans Fallada", current_page: 0},
 		{id: 8, book_title: "God Explained in a Taxi Ride", author: "Paul Arden", current_page: 0},
 		{id: 9, book_title: "Damn good advice", author: "George Lois", current_page: 0},
