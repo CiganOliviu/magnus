@@ -251,5 +251,5 @@
 {'id': 254, 'title': 'The Secret Diary of Hendrik Groen, 83¼ Years Old', 'author': 'Hendrik Groen', 'want level': 7, 'done to read': False}
 {'id': 255, 'title': 'Zilele si noptile unui student intarziat', 'author': 'Gib Mihaescu', 'want level': 6, 'done to read': False}
 {'id': 256, 'title': 'Every man dies alone', 'author': 'Hans Fallada', 'want level': 10, 'done to read': False}
-{'id': 257, 'title': 'God Explained in a Taxi Ride', 'author': 'Paul Arden', 'want level': 9, 'done to read': False}
-{'id': 258, 'title': 'Damn good advice', 'author': 'George Lois', 'want level': 10, 'done to read': False}
+{'id': 257, 'title': 'God Explained in a Taxi Ride', 'author': 'Paul Arden', 'want level': 9, 'done to read': True}
+{'id': 258, 'title': 'Damn good advice', 'author': 'George Lois', 'want level': 10, 'done to read': True}
