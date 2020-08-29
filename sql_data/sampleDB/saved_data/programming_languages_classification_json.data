@@ -26,7 +26,7 @@
 {'id': 26, 'name': 'csharp-algo-data-structures', 'programming_language': 'CSharp', 'license': 'MIT', 'status': 'stable'}
 {'id': 27, 'name': 'ARCFOUR-CSharp', 'programming_language': 'CSharp', 'license': 'MIT', 'status': 'stable'}
 {'id': 28, 'name': 'SOLID', 'programming_language': 'CSharp', 'license': 'MIT', 'status': 'stable'}
-{'id': 29, 'name': 'COVID-19', 'programming_language': 'None', 'license': 'None', 'status': 'in progress'}
+{'id': 29, 'name': 'MathMem', 'programming_language': 'Dart', 'license': 'MIT', 'status': 'in progress'}
 {'id': 30, 'name': 'rudy', 'programming_language': 'PHP', 'license': 'MIT', 'status': 'stable'}
 {'id': 31, 'name': 'refactoring-sample', 'programming_language': 'PHP', 'license': 'MIT', 'status': 'stable'}
 {'id': 32, 'name': 'project-development-time-estimator', 'programming_language': 'Rust', 'license': 'MIT', 'status': 'stable'}
@@ -35,3 +35,13 @@
 {'id': 35, 'name': 'kotlin-tdd', 'programming_language': 'Kotlin', 'license': 'MIT', 'status': 'stable'}
 {'id': 36, 'name': 'hello-world', 'programming_language': 'Assembly', 'license': 'MIT', 'status': 'stable'}
 {'id': 37, 'name': 'css-strike', 'programming_language': 'CSS', 'license': 'MIT', 'status': 'unstable'}
+{'id': 38, 'name': 'WeddingInvitation-backend', 'programming_language': 'Python3', 'license': 'None', 'status': 'stable'}
+{'id': 39, 'name': 'teaching', 'programming_language': 'Python3', 'license': 'None', 'status': 'in progress'}
+{'id': 40, 'name': 'personal-webiste-backend', 'programming_language': 'Python3', 'license': 'MIT', 'status': 'stable'}
+{'id': 41, 'name': 'automatisation', 'programming_language': 'Python3', 'license': 'MIT', 'status': 'stable'}
+{'id': 42, 'name': 'OOP-in-C', 'programming_language': 'C', 'license': 'MIT', 'status': 'stable'}
+{'id': 43, 'name': 'personal_website_frontend', 'programming_language': 'HTML', 'license': 'MIT', 'status': 'stable'}
+{'id': 44, 'name': 'WeddingInvitation-frontend', 'programming_language': 'HTML', 'license': 'MIT', 'status': 'stable'}
+{'id': 46, 'name': 'esential-linux-tdd', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
+{'id': 47, 'name': 'openpilot', 'programming_language': 'C++17', 'license': 'MIT', 'status': 'stable'}
+{'id': 48, 'name': 'clean-code-rules', 'programming_language': 'None', 'license': 'None', 'status': 'in progress'}

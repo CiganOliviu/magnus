@@ -1,9 +1,9 @@
 from db_operations import db_operations
 from sampleDB.sampleDB import sampleDB
 
-DATA_FILE_PATH = "\magnus\sql_data\sampleDB\saved_data\programming_languages_classification.data"
-JSON_DATA_FILE_PATH = "\magnus\sql_data\sampleDB\saved_data\programming_languages_classification_json.data"
-SAVE_ACTIVITY_FILE_PATH = "\magnus\sql_data\sampleDB"
+DATA_FILE_PATH = "/media/cigan/Personal/Projects/magnus/sql_data/sampleDB/saved_data/programming_languages_classification.data"
+JSON_DATA_FILE_PATH = "/media/cigan/Personal/Projects/magnus/sql_data/sampleDB/saved_data/programming_languages_classification_json.data"
+SAVE_ACTIVITY_FILE_PATH = "/media/cigan/Personal/Projects/magnus/sql_data/sampleDB"
 
 db_actions = db_operations()
 
@@ -45,6 +45,12 @@ db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Kotlin
 
 print("\nCSS projects")
 db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "CSS")
+
+print("\nHTML projects")
+db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "HTML")
+
+print("\nDart projects")
+db_actions.select_specific_data(sampleDB, sampleDB.programming_language, "Dart")
 
 db_actions.insert_table_in_file(DATA_FILE_PATH, sampleDB)
 
