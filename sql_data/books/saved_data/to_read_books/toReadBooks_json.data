@@ -147,7 +147,7 @@
 {'id': 148, 'title': 'The Social Media Marketing Book', 'author': 'Dan Zarrella', 'want level': 9, 'status': 'owned', 'done to read': False}
 {'id': 149, 'title': 'Sell with a Story How to Capture Attention, Build Trust, and Close the Sale', 'author': 'Paul Smith', 'want level': 8, 'status': 'owned', 'done to read': False}
 {'id': 150, 'title': 'Smart Pricing How Google, Priceline, and Leading Businesses Use Pricing Innovation for Profitability', 'author': 'Jagmohan Raju', 'want level': 8, 'status': 'owned', 'done to read': False}
-{'id': 151, 'title': 'Assassins Creed The Secret Crusade', 'author': 'Bowden Oliver', 'want level': 6, 'status': 'owned', 'done to read': False}
+{'id': 151, 'title': 'Assassins Creed The Secret Crusade', 'author': 'Bowden Oliver', 'want level': 6, 'status': 'owned', 'done to read': True}
 {'id': 152, 'title': 'Assassins Creed Revelations', 'author': 'Oliver Bowden', 'want level': 5, 'status': 'owned', 'done to read': False}
 {'id': 153, 'title': 'Guns, Germs, and Steel The Fates of Human Societies', 'author': 'Jared M. Diamond', 'want level': 10, 'status': 'owned', 'done to read': False}
 {'id': 154, 'title': 'Long Walk to Freedom The Autobiography of Nelson Mandela', 'author': 'Nelson Mandela', 'want level': 10, 'status': 'owned', 'done to read': False}

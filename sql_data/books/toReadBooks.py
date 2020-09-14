@@ -160,7 +160,7 @@ class toReadBooks():
 		{id: 148, book_title: "The Social Media Marketing Book", author: "Dan Zarrella", want_level: 9, status: "owned", done_to_read: False},
 		{id: 149, book_title: "Sell with a Story How to Capture Attention, Build Trust, and Close the Sale", author: "Paul Smith", want_level: 8, status: "owned", done_to_read: False},
 		{id: 150, book_title: "Smart Pricing How Google, Priceline, and Leading Businesses Use Pricing Innovation for Profitability", author: "Jagmohan Raju", want_level: 8, status: "owned", done_to_read: False},
-		{id: 151, book_title: "Assassins Creed The Secret Crusade", author: "Bowden Oliver", want_level: 6, status: "owned", done_to_read: False},
+		{id: 151, book_title: "Assassins Creed The Secret Crusade", author: "Bowden Oliver", want_level: 6, status: "owned", done_to_read: True},
 		{id: 152, book_title: "Assassins Creed Revelations", author: "Oliver Bowden", want_level: 5, status: "owned", done_to_read: False},
 		{id: 153, book_title: "Guns, Germs, and Steel The Fates of Human Societies", author: "Jared M. Diamond", want_level: 10, status: "owned", done_to_read: False},
 		{id: 154, book_title: "Long Walk to Freedom The Autobiography of Nelson Mandela", author: "Nelson Mandela", want_level: 10, status: "owned", done_to_read: False},
