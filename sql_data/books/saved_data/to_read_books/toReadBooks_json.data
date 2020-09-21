@@ -253,3 +253,12 @@
 {'id': 256, 'title': 'Every man dies alone', 'author': 'Hans Fallada', 'want level': 10, 'done to read': False}
 {'id': 257, 'title': 'God Explained in a Taxi Ride', 'author': 'Paul Arden', 'want level': 9, 'done to read': True}
 {'id': 258, 'title': 'Damn good advice', 'author': 'George Lois', 'want level': 10, 'done to read': True}
+{'id': 259, 'title': 'Fizica Povestita', 'author': 'Cristian Presura', 'want level': 7, 'done to read': False}
+{'id': 260, 'title': 'Profetiile Tatalui Bogat', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
+{'id': 261, 'title': 'Ghidul Investitorului', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
+{'id': 262, 'title': 'Cadranul Banilor', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
+{'id': 263, 'title': 'Conspiratia Celor Bogati', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
+{'id': 264, 'title': 'Tanar si Bogat', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
+{'id': 265, 'title': 'Scoala de Afaceri', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
+{'id': 266, 'title': 'Ghidud de Investitii', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
+{'id': 267, 'title': 'Un IQ financiar mai bun', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
