@@ -16,9 +16,5 @@ class CurrentReadingCheck():
 		{id: 5, book_title: "The book on how to invest in real estate", author: "Robert Waller", current_page: 21},
 		{id: 6, book_title: "Samurai: Razboi si onoare in japonia medievala", author: "Pamela S. Turner", current_page: 39},
 		{id: 7, book_title: "Scapa de capcana VINOVATIEI", author: "Gael Lindenfield", current_page: 100},
-<<<<<<< Updated upstream
 		{id: 8, book_title: "Un IQ financiar mai bun", author: "Robert Kiyosaki", current_page: 174},
-=======
-		{id: 8, book_title: "Un IQ financiar mai bun", author: "Robert Kiyosaki", current_page: 25},
->>>>>>> Stashed changes
 	]
