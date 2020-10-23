@@ -261,5 +261,5 @@
 {'id': 264, 'title': 'Tanar si Bogat', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
 {'id': 265, 'title': 'Scoala de Afaceri', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
 {'id': 266, 'title': 'Ghidud de Investitii', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
-{'id': 267, 'title': 'Un IQ financiar mai bun', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': False}
+{'id': 267, 'title': 'Un IQ financiar mai bun', 'author': 'Robert T.Kiyosaki', 'want level': 10, 'done to read': True}
 {'id': 268, 'title': 'Arta de a Negocia', 'author': 'Herb Cohen', 'want level': 10, 'done to read': False}

@@ -83,4 +83,5 @@ class books():
 		{id: 73, book_title: "God Explained in a Taxi Ride", author: "Paul Arden"},
 		{id: 74, book_title: "Damn Good Advices", author: "George Lois"},
 		{id: 75, book_title: "Assassin's Creed: The Secret Crusade", author: "Bowden Oliver"},
+		{id: 76, book_title: "Un IQ financiar mai bun", author: "Robert Kiyosaki"},
 	]

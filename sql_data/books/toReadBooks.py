@@ -274,7 +274,7 @@ class toReadBooks():
 		{id: 264, book_title: "Tanar si Bogat", author: "Robert T.Kiyosaki", want_level: 10, done_to_read: False},
 		{id: 265, book_title: "Scoala de Afaceri", author: "Robert T.Kiyosaki", want_level: 10, done_to_read: False},
 		{id: 266, book_title: "Ghidud de Investitii", author: "Robert T.Kiyosaki", want_level: 10, done_to_read: False},
-		{id: 267, book_title: "Un IQ financiar mai bun", author: "Robert T.Kiyosaki", want_level: 10, done_to_read: False},
+		{id: 267, book_title: "Un IQ financiar mai bun", author: "Robert T.Kiyosaki", want_level: 10, done_to_read: True},
 		{id: 268, book_title: "Arta de a Negocia", author: "Herb Cohen", want_level: 10, done_to_read: False},
 		# {id: 269, book_title: "", author: "", want_level: , done_to_read: },
 	]
