@@ -36,6 +36,7 @@ class books():
 		{id: 26, book_title: "Mein Kampf", author: "Adolf Hitler"},
 		{id: 27, book_title: "A Tree Grows in Brooklyn", author: "Betty Smith"},
 		{id: 28, book_title: "The Devil's Arithmetic", author: "Jane Yolen"},
+		
 		{id: 29, book_title: "It's Kind of a Funny Story", author: "Ned Vizzini"},
 		{id: 30, book_title: "Arctic Adventure", author: "Peter Freunchen"},
 		{id: 31, book_title: "Metode de programare si POO", author: "Eugen Popescu"},
